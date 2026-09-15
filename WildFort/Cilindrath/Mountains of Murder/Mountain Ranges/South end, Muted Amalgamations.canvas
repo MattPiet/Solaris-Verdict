@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"cc69777f85094521","type":"text","text":"Closest to The Ruins of Cilindrath this location has been heavily altered by the magic that plagues the area. \n\nAll the creatures in this location have distortions in the forms, a roaming band of heavily altered Orcs rule the area and kill any that pass for food, given its proximity to the ruins its actually easier to get to it after passing through lantern lane\n","x":-125,"y":-30,"width":585,"height":210},
+		{"id":"16204d2b80e09e75","type":"text","text":"[[Mountain Ranges.canvas]]\n#WildFort","x":-250,"y":-220,"width":250,"height":60}
+	],
+	"edges":[]
+}

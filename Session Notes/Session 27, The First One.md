@@ -1,0 +1,4 @@
+#Session_Note
+[[Sessions.base]]
+
+ Last Session you all entered the Bio Labs just after meeting a Orc man names Linarian. On the first floor you quickly discovered how vile and disgusting this place is, hands made into a flipper and people turned into plants. On the first floor you ran into Thenda's husband Blandin, who was distraught and torn at the thought of him failing his wife. You all then began a decent into the Bio Labs to find Thenda and uncover secrets that lay beneath. You then faced a trial in the Decontamination grid after a bit of a scare and being very close to failing u managed to succeed the trial. We now pick up from the Chimera Pens where you all fought humanoid bodies stitched together to make monsters. Now all near death we pick up there.

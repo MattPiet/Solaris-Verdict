@@ -1,0 +1,5 @@
+#Session_Note
+[[Sessions.base]]
+[[Session 33, The Strife Emperor.canvas]]
+
+Last session you all began to explore the Menagerie Coast in a hope to discover more about the duke that you are tasked to kill. During this time some of you went to the Merina and the Weaves Web gaining valuable information and resources to aid you in your endeavor. While others decided to fly over a parade on a magic carpet headed to a apothecary. You reached your destination discovering a rather interesting man named Issac Draemont who you discovered was a technological genius. After gathering all together once more you interrogated a drow who was terrified of Venthra, she then used modify memory to make him believe she was Mizora. You then set up traps on your to be battle field, lastly you re visited Issac spotting Linarian  along the way. So we pick up with Venthra and Aralia mid conversation and the rest of you speaking to Issac.

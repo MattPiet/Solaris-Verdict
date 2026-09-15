@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"f4a41fccc1468e61","type":"text","text":"Once they reach Wild Port and begin walking around Orin will kidnap Orlli and take him to the temple of Bhaal where she will try to lure the party into a trap. She will taunt them taking his place\n","x":-500,"y":-80,"width":625,"height":90},
+		{"id":"7b1b50c6d463efd6","type":"text","text":"After reaching Kaer Morhen and resting the party will be attacked in their sleep by a umbral lord 2 nightbringers and 10 lesser Vampires, all of which are Bhaal cultists\n","x":-500,"y":30,"width":645,"height":80},
+		{"id":"a180a0668bf0261c","type":"file","file":"Session Canvases/Session 36, Lady of Loss/Images/Pasted image 20260915171229.png","x":160,"y":-90,"width":640,"height":922},
+		{"id":"4b3e7888e191ae9c","type":"file","file":"Session Canvases/Session 36, Lady of Loss/Images/Pasted image 20260915171242.png","x":-509,"y":140,"width":654,"height":787},
+		{"id":"47e4b4ec16131496","type":"file","file":"Session Canvases/Session 36, Lady of Loss/Images/Pasted image 20260915171255.png","x":840,"y":-60,"width":573,"height":892},
+		{"id":"4948703c11418c54","x":-463,"y":-382,"width":250,"height":60,"type":"text","text":"[[Session Canvases.base]]\n#Session_Canvas"}
+	],
+	"edges":[]
+}

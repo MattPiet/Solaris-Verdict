@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"087ce67a3c3d9836","type":"text","text":"[[Session Canvases.base]]\n#Session_Canvas","x":-567,"y":-396,"width":250,"height":60},
+		{"id":"db540733a3d3720d","type":"file","file":"Session Canvases/Session 28, Belmont/Images/Pasted image 20260915161014.png","x":-567,"y":-300,"width":480,"height":720},
+		{"id":"2ba6204fe3dfd3d7","x":-20,"y":-300,"width":121,"height":400,"type":"file","file":"Session Canvases/Session 28, Belmont/Images/Pasted image 20260915161026.png"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"14b7b99c43a4276b","type":"text","text":"A fracture created by the calamity in a battle between Pelor and Bane a sword like ravine was carved through the mountains.\n\nCurrently residing over and controlling the area are a group of muted trolls and goblins that have made their camp in the ribcage of a titan used by Bane during the calamity. \n\nThe Ravine is at normal ground level carved through the several thousand feet tall mountains its 60 feet wide with holes, rocks and risk of rock slide at all times. \n\n\nThe goblin camp is three quarters through the ravine half way up a mountain to the left, the camp its self is small compared to the gigantic ribcage made of rock.\n\nI will probably make a map for this sometime this week\n","x":-500,"y":-280,"width":680,"height":320},
+		{"id":"3446da2530305689","type":"text","text":"[[Mountain Ranges.canvas]]\n#WildFort","x":-540,"y":-420,"width":250,"height":60}
+	],
+	"edges":[]
+}

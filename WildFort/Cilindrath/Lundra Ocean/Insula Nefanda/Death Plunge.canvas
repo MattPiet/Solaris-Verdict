@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"259fffd00c097e62","type":"text","text":"[[Insula Nefanda.canvas]]\n#WildFort","x":-840,"y":-660,"width":250,"height":60},
+		{"id":"9acb7d2d67ed040d","x":-817,"y":-520,"width":454,"height":146,"type":"text","text":"Around the entire island for 5 kilometers is a raging storm that never ends, treacherous whirlpools and crackling thunder scrap against ships destroying them before ever reaching the island.\n"},
+		{"id":"02e46e687c104af7","x":-817,"y":-320,"width":374,"height":106,"type":"text","text":"Just outside of the Death Plunge is a small island littered with destroyed ships and pirates.\n"}
+	],
+	"edges":[]
+}

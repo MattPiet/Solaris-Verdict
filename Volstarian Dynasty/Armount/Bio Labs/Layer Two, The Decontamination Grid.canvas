@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"1861ea7e58e47025","type":"text","text":"As you enter into The Decontamination Grid, if you are carrying any magical items the door slams shut behind you. Once the doors shut a anti magic field is placed within the room and nothing even including divine connection works in here.","x":-580,"y":-220,"width":625,"height":90},
+		{"id":"faac5eba203b3eb5","type":"text","text":"In the Center of the room is a massive funnel attached to a rusted iron wheel. With a symbol of the human body on it.\n","x":-180,"y":480,"width":561,"height":103},
+		{"id":"49edaf56aaf85c0d","type":"text","text":"The walls are metal and running all around them is iron tubes that are rusted and ancient.\n","x":-701,"y":-60,"width":434,"height":70},
+		{"id":"38e6faf464beb89d","type":"text","text":"In each corner of the room there is a pip that runs to a pipe on the ceiling. About half way up each pipe is a opening that is sealed shut by different means\n","x":-180,"y":-60,"width":594,"height":90},
+		{"id":"c8c24a71f5e27a5f","type":"text","text":"Far Left\n\nThe pipe has a old wheel attached to it and behind the see through opening is a vial with a red fluid labelled \"Ferric Exudate\" F.E (DM Note this represents IRON).\n\nDC 14 Athletics check to turn the wheel","x":-782,"y":160,"width":642,"height":200},
+		{"id":"fc689da381e65c02","type":"text","text":"Far Right\n\nThe pipe has poisonous gas within it and is open, the vial within has a brown fluid within it and is labelled \"Cutaneous Unguent\" C.U (DM Note this represents copper/skin).\n\nDC 14 Constitution saving throw reach through the poison gas","x":256,"y":160,"width":644,"height":180},
+		{"id":"bde9ce8c6f3e4d77","type":"text","text":"\nClose Right\n\nThe pipe is completely open\n\nThe vial is green and labeled Assimilation Serum A.S (DM Note Bad very bad)\n\n resting on a delicate, arcane weight-plate surrounded by razor-sharp glass shards. Removing it requires replacing it with the exact right amount of weight (Indiana Jones style), or carefully extracting it without touching the sides.\n\nThe Check: DC 14 Sleight of Hand or DC 14 Arcana. On a failure, the arcane plate sparks, dealing 2d6 lightning damage, though they still manage to grab the vial.","x":256,"y":720,"width":750,"height":301},
+		{"id":"a06218b90a3f1873","type":"text","text":"Close Left\n\nThe pipe has gears spinning within the opening that someone would need to quickly slip their hand through. Within it is a vial with a white fluid labeled \"Calcified Ash\" C.A (DM Note this represents CALCIUM)\n\nDC 14 Acrobatics check to reach into the tube","x":-660,"y":720,"width":600,"height":200},
+		{"id":"2a96c834008f308d","type":"text","text":"Correct order \n\nCalcium \nIron\nSkin\n\nWhenever a touch of liquid is poured into the center funnel, the symbol of the body will fill from the bottom up with that colour liquid. \n\nAfter 3 seconds the liquid will leave the body and drain into a container below. If the correct three are entered and they wait three seconds the timer stops and the door opens","x":-710,"y":1140,"width":700,"height":315},
+		{"id":"c0eb19228967775e","type":"text","text":"Failure\n\nAny other order will result in a failure which will cause the liquid to spew out toxic gas from the funnel forcing everyone to make a constitution saving throw, dealing 3d6 poison damage giving them the poisoned condition for 6 hours (doesn’t not stack). DC 16\n\nIf they pour the false ingredient it will spew out even more toxic gas even if they put the other three in correctly forcing everyone to make a DC 18 Con save or take 6d6 poison damage and be poisoned and blinded for one hour (not stackable, 1 lesser restoration clears both affects)","x":256,"y":1140,"width":708,"height":269},
+		{"id":"f66aac485bbf9ffd","type":"text","text":"If time runs out the room is flooded with toxic gas each creature must make a DC 20 Con Save on a failure each creature takes 10d10 poison damage on success they take half \n","x":340,"y":1520,"width":540,"height":100},
+		{"id":"ef1e6127dd3a809f","type":"text","text":"As the door opens the team will walk into a ice cave that is a tight squeeze to make it through. For two hours they are going to have to squeeze past the ice to make it to their next location\n","x":-585,"y":1570,"width":450,"height":110},
+		{"id":"6ff44b67e4229095","type":"text","text":"[[Bio Labs.canvas]]\n#Volstarian_Dynasty ","x":-782,"y":-360,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"bd8dcc85d1f852ab","fromNode":"faac5eba203b3eb5","fromSide":"top","toNode":"c8c24a71f5e27a5f","toSide":"bottom"},
+		{"id":"9fb1105868e16b15","fromNode":"faac5eba203b3eb5","fromSide":"top","toNode":"fc689da381e65c02","toSide":"bottom"},
+		{"id":"aa10988c09c58c27","fromNode":"faac5eba203b3eb5","fromSide":"bottom","toNode":"bde9ce8c6f3e4d77","toSide":"top"},
+		{"id":"b202ca2a18ebd7fa","fromNode":"faac5eba203b3eb5","fromSide":"bottom","toNode":"a06218b90a3f1873","toSide":"top"},
+		{"id":"f5b8606e0cae00b9","fromNode":"faac5eba203b3eb5","fromSide":"bottom","toNode":"2a96c834008f308d","toSide":"right"},
+		{"id":"d2d6cd892d09b088","fromNode":"faac5eba203b3eb5","fromSide":"bottom","toNode":"c0eb19228967775e","toSide":"left"},
+		{"id":"e11916e21f87cf14","fromNode":"c0eb19228967775e","fromSide":"bottom","toNode":"f66aac485bbf9ffd","toSide":"top"},
+		{"id":"e886c8578cba4666","fromNode":"2a96c834008f308d","fromSide":"bottom","toNode":"ef1e6127dd3a809f","toSide":"top"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"85e6e28a49ec1dac","x":-280,"y":-40,"width":685,"height":370,"type":"text","text":"The bottom\n\nThe Center: Azest is suspended mid-air in the dead center of the room above an altar of jagged black stone, her magic being pulled downward into the orb resting on the altar.\n\nOrin (Bhaal): Pacing restlessly on the left side of the altar, her blades drawn and dripping, clearly bored by the slow, methodical nature of the magic.\n\nDrahko Zorloth: Standing rigid and imposing on the right side, arms crossed behind his back, acting as the overseer ensuring the ritual’s perfection.\n\nVerazanoth (Vecna): Standing directly behind the altar, facing the party's entrance. He is actively weaving the spell, his skeletal hands manipulating the shadow magic draining from Azest."},
+		{"id":"da7c0e9fd16d4435","x":-280,"y":-180,"width":560,"height":100,"type":"text","text":"Aralia and Stu will both be hanging in the center of the Walk of Wailing tied up unconscious hanging by their wrists 60 feet above the bridge one on each side 60 feet apart."},
+		{"id":"aca2096ff385d5bb","x":-280,"y":360,"width":2200,"height":1160,"type":"link","url":"https://www.dandwiki.com/wiki/Avatar_of_Myrkul_(5e_Creature)\r\n"},
+		{"id":"4751581b0358f327","x":-359,"y":-317,"width":250,"height":60,"type":"text","text":"[[Session Canvases.base]]\n#Session_Canvas"}
+	],
+	"edges":[]
+}

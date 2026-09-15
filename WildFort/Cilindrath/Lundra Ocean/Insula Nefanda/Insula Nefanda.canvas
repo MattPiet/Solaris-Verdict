@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"7e7cd32cd4ad107b","type":"text","text":"is located in the middle of the Lundra Ocean just outside of the barrier in Wildfort territory \n\n\nAnybody attempting to rest in this location must make a DC16 Charisma saving throw suffering the effects of short term madness on a failed save while also not gaining the benefits of that rest.\n\nA long rest is impossible at this location.\n\nTeleportation to and from the island is impossible and creating dimensional rifts is impossible.\n","x":-125,"y":-30,"width":725,"height":290},
+		{"id":"943101e8cd7af0e7","type":"text","text":"[[Lundra Ocean.canvas]]\n#WildFort","x":-140,"y":-220,"width":250,"height":60}
+	],
+	"edges":[]
+}

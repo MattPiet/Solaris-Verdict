@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1acde2f1f93c7d3b","type":"text","text":"Arlalias mind.\n\n\"Standing in front of a mirror you see yourself, pale white hair and eyes a face that seems grey and withered wearing a mask. The figure reaches for her face. \n\nWith no words you see fear in her eyes as she points behind you. As you turn around you see a creature cloaked missing barely able to make out facial features you can see a pushed in nose a shining pink eye with dark shadow drifting from it, standing tall messing its left hand it locks eyes with you and begins to grin from ear to ear. Your vision shifts and you see your comrades standing together and watch as their bodies begin to wither and shrivel before turning to dust.\"","x":-420,"y":-80,"width":685,"height":290},
+		{"id":"f9bb93ade67c421a","type":"file","file":"Session Canvases/Session 37, Melonia/Image/Pasted image 20260915171639.png","x":265,"y":-80,"width":755,"height":641},
+		{"id":"0ff97825e60da5c3","type":"file","file":"Session Canvases/Session 37, Melonia/Image/Pasted image 20260915171649.png","x":265,"y":561,"width":755,"height":621},
+		{"id":"8358323244b5d328","type":"text","text":"[[Session Canvases.base]]\n#Session_Canvas","x":-482,"y":-244,"width":250,"height":60}
+	],
+	"edges":[]
+}

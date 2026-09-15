@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"301593a7b70fa03c","type":"text","text":"A large purple light rocky jagged chamber with an opened way that reaches on for several hundred feet is traversable by a singular rope bridge. Below lies thousands of wailing souls and a dark miasma reaches up to the top of the dark chamber changing colour into a dark green.\n\nWhile walking the bridge you must be quite and make no noise should you make even a peep the howling of the dammed will press into your mind in attempt to conquer.\n\nStealth: Total average\nStart: 15\nFail 1: 18\nFail 2: 20\nFail 3: 25\n\nWisdom Save: individual\nStart: 15\nFail 1: 18\nFail 2: 20\nFail 3: 25\n","x":-125,"y":60,"width":657,"height":468},
+		{"id":"aac55e4a031ba80c","type":"text","text":"[[Insula Nefanda.canvas]]\n#WildFort","x":-125,"y":-40,"width":250,"height":55}
+	],
+	"edges":[]
+}

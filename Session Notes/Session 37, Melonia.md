@@ -1,0 +1,5 @@
+#Session_Note
+[[Sessions.base]]
+
+
+Last session began on a boat and ended at a table drunk and with friends. Finally reaching your destination the nation of Cilindrath on the continent Wildfort you all were met with a very different cultural norm than you are used too. The world of Villatos is filled with magic given down by the Gods, in Cilindrath there is one God and all but her power is forbidden. Warden's of the church purge sorceresses and mages from there soil eradicating all heretics who do not turn them selves to the lady of loss. Within Wildfort you discovered a secret hide out where wielders of the arcane arts are covered in the shadows of Melonia, in this hide out you met Yelrien Cilindrath Wife of Glant Cilindrath the last survivor of the Cilindrath name. After a conversation and exchange of information you all went to Kaer Moren talked, drank and are now preparing for sleep.

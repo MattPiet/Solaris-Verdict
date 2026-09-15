@@ -1,0 +1,5 @@
+#Session_Note
+[[Sessions.base]]
+[[Session 24, A Path Away From Evil.canvas]]
+
+Last session Solaris Verdict began their journey to Armount, had a girls night, a boys night and a walk through Yormindar. While on the way to Yormindar you all saw an odd shape in the sky and also were hit by a arcane storm of lightening, during which one of you had the bright idea to become a lightening rod. You all then successfully made it to Yormindar and after talking with a few people including Balgus made your way to All-Hammers Will where you met the last living Yormindar. After seeing the ring on Saggnus's finger he asked why he should let him walk out alive and told him to prove himself and pick up the spear that he carries. So we pick up there both hands on the spear carried down through the Yormindar family for generations.

@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"a132f9208b6e40b1","type":"text","text":"This is where the crag lies, the entrance to the temple of Bhaal\n","x":-300,"y":-140,"width":485,"height":50},
+		{"id":"dd58159e614b944f","type":"text","text":"[[Mountain Ranges.canvas]]\n#WildFort","x":-480,"y":-320,"width":250,"height":60}
+	],
+	"edges":[]
+}

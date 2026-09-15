@@ -1,0 +1,5 @@
+#Session_Note
+[[Sessions.base]]
+[[Session 28, Belmont.canvas]]
+
+Last we left off you all push further into the Bio Labs. Right as the session started a being made its presence known by attaching itself to Saggnus as a shadow. It guided you all to a path one that Saggnus forced on you all. After a intense pvp between Linarian and Saggnus you all decided to take a long rest. Upon awaking you noticed a member of your group Aralia was missing, she was then discovered at the end of a hall way clawing at a door behind thousands of bodies. You all went through that door and travelled through mist all while this shadow guided the way. You then ended up in what looked like the house of a vampire, killed an abomination and found Thenda. However when you arrived it was too late a Thenda was already turned into a vampire by Strahd Von Zarcavich, who reviled himself to you all promising you all great things and giving you a way into his realm. So we pick up in a wagon having a conversation with a young man named Marvin.

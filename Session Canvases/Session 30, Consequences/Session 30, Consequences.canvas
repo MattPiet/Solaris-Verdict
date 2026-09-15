@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"07c73075a3d87d52","type":"file","file":"Session Canvases/Session 30, Consequences/Images/Pasted image 20260915161159.png","x":-480,"y":-60,"width":960,"height":540},
+		{"id":"bf8ab555a900ce9a","type":"text","text":"[[Session Canvases.base]]\n#Session_Canvas","x":-562,"y":-347,"width":250,"height":60},
+		{"id":"60134b52c571e4df","type":"file","file":"Session Canvases/Session 30, Consequences/Images/Pasted image 20260915161232.png","x":-480,"y":500,"width":360,"height":943},
+		{"id":"3aaa55e22baeff5b","x":-100,"y":500,"width":680,"height":1024,"type":"file","file":"Session Canvases/Session 30, Consequences/Images/Pasted image 20260915161242.png"}
+	],
+	"edges":[]
+}

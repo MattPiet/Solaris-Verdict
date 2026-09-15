@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"282006884517d656","type":"text","text":"The Chimera Pens were where the mages experimented on animals attempting to turn wolves into Dire Wolves or things much more sinister. When intially created it was the bottom layer of the Bio Labs and all that was every reported. \r\n\r\nEverything below was under the rug. Only those who needed to know about it knew. However right before the fall of Armount, scientists grew desperate to create a master piece and so they began to create what they call Chimera's disgusting creatures that were once animals and are now a combination of many living creatures.","x":-125,"y":-30,"width":665,"height":230},
+		{"id":"71e777c53c06cd4f","type":"text","text":"Zone one: lodging\n\nScientists working in the Bio Labs would sleep spend weeks on end under ground. Part of the 3rd floor was turned into a lodging area.\n\nAll loot in this area is practically non existent however with a high enough check a old collection of notes can be found \n","x":-215,"y":320,"width":558,"height":186},
+		{"id":"8737b19a3ce31e92","type":"file","file":"Volstarian Dynasty/Armount/Images/Pasted image 20260915182726.png","x":-215,"y":540,"width":1154,"height":608},
+		{"id":"1f3db2cb349d022c","type":"file","file":"Volstarian Dynasty/Armount/Images/Pasted image 20260915182740.png","x":-215,"y":1200,"width":894,"height":960},
+		{"id":"dc30f330f2e9382e","type":"file","file":"Volstarian Dynasty/Armount/Images/Pasted image 20260915182751.png","x":740,"y":1200,"width":1131,"height":960},
+		{"id":"86390ca60c992045","type":"file","file":"Volstarian Dynasty/Armount/Images/Pasted image 20260915182806.png","x":1001,"y":13,"width":839,"height":1099},
+		{"id":"b787f717b28a1121","type":"file","file":"Volstarian Dynasty/Armount/Images/Pasted image 20260915182822.png","x":1920,"y":13,"width":840,"height":1098},
+		{"id":"20b782a5e99bd329","type":"text","text":"[[Bio Labs.canvas]]\n#Volstarian_Dynasty ","x":-250,"y":-200,"width":250,"height":60}
+	],
+	"edges":[]
+}

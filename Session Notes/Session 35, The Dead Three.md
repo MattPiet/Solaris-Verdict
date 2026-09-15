@@ -1,0 +1,5 @@
+#Session_Note
+[[Sessions.base]]
+[[Session 35, The Dead Three.canvas]]
+
+Last session you all started on the Menagerie Coast and ended on an island of death. On your way there you stopped off at the pirate island known as the Drowned Anchor, while there you figured out exactly where Azest went an island known as Insula Nefanda. Also while there you bought items off the pirate black market and got your gun stolen which lead to Alivia and Achillies arriving and killing the Tide King as well as anyone who saw the gun with him. After a scolding from Achillies you made way for Insula and upon your arrival were greeted with the echoing hatred from millions of dead souls. Aralia partially lost her memories and others of you fell victim to a trap set by Azest. Dealing with all of this you made way to the center of the island where you found a human man with a metal arm waiting your arrival a man named Gabriel Draemont. During a fight with the evil father of your fallen comrade Aralia had her mind controlled and she grabbed Stu then teleported away and we pick up on the battlefield Gabriel still itching for blood.

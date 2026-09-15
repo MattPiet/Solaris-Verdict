@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"4fe25a7ae4b890cf","x":-440,"y":-140,"width":565,"height":270,"type":"text","text":"Within the home.\n\nDc 20 everything below and a Key with I.A on it\n\nDc 15 everything below and an old bracelet with P.V on it\n\nDc 10 Everything below and 1000gp\n\nDc 5 a destroyed map of Armount showing additional locations but its not possible to make out the names of the places.\n"},
+		{"id":"8fcebb7d0a4e081a","x":-461,"y":-322,"width":250,"height":60,"type":"text","text":"[[Storm Crest.canvas]]\n#Volstarian_Dynasty "}
+	],
+	"edges":[]
+}

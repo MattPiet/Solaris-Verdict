@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"df971e1f5febedf8","type":"text","text":"[[Insula Nefanda.canvas]]\n#WildFort","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"3b3b60fa5023b769","x":-125,"y":80,"width":407,"height":85,"type":"text","text":"A white sand beach brushed by the sun covered in ash, skeletons and destroyed ships litter the grounds.\n"},
+		{"id":"b148b1d1e143a564","x":-125,"y":220,"width":587,"height":225,"type":"text","text":"Forest:\n\nLeafless ash grey trees a layered one after the other a top twisting vines that are jagged and covered in blood.\n\nTouching the trees cause your entire body to feel blighted. Anyone who touches a blighted tree must make a DC 14 Con save or take 4D8 Necrotic Damage and become poisoned for one hour.\n\n\n"}
+	],
+	"edges":[]
+}

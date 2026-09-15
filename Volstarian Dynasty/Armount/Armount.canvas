@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"ea44b4e226747f2f","type":"text","text":"Upon Casting a spell of 3rd level or higher when passed the mountains of Armount the player must roll a d20, furthermore if a player lands a critical hit with a cantrip or a magical weapon they must also roll a d20.\n\nOn a roll of 17 or higher the player must roll on the wildmagic table. \n\nWhatever affect occurs takes place after that current casting and or attack is completely finished, immediately after on the same turn the wild magic affect takes place.\n\n\n\n\n\n","x":-125,"y":-30,"width":625,"height":250},
+		{"id":"1c4c53b7df668a26","type":"file","file":"Volstarian Dynasty/Armount/Images/Pasted image 20260915181444.png","x":-125,"y":240,"width":765,"height":1025},
+		{"id":"4264b272b074e1b7","type":"text","text":"[[Vostarian Dynasty.base]]\n#Volstarian_Dynasty","x":-426,"y":-290,"width":250,"height":60}
+	],
+	"edges":[]
+}

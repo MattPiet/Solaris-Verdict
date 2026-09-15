@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"5f2f1d396334fa5c","type":"text","text":"Blood of SVZ here (Strhad Von Zarcavich) which was used to create the subject in hopes of creating vampire without the need of Strhad .\n","x":-402,"y":-60,"width":545,"height":90},
+		{"id":"14b8a7b194f0b35d","type":"file","file":"Volstarian Dynasty/Armount/Images/Pasted image 20260915183110.png","x":-380,"y":60,"width":720,"height":924},
+		{"id":"94a7bb3c23919ac6","type":"text","text":"[[Bio Labs.canvas]]\n#Volstarian_Dynasty ","x":-505,"y":-160,"width":250,"height":60}
+	],
+	"edges":[]
+}

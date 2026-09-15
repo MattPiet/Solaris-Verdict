@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"3c916d86f20c0a14","type":"text","text":"Created in the eye socket of the Titans skull is a nest that a Zombie Roc and a beholder live within both sharing a space that leads into a cave that becomes a series of tunnels that can lead into the mines.\n\nDefeating or sneaking passed these two enemies can make a new pathway for that party to get to Orin and the Temple of Bhaal","x":-308,"y":-133,"width":588,"height":173},
+		{"id":"4911bf3273b0f49b","type":"text","text":"[[Mountain Ranges.canvas]]\n#WildFort","x":-320,"y":-280,"width":250,"height":60}
+	],
+	"edges":[]
+}

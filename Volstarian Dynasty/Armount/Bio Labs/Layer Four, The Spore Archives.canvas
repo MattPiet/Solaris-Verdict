@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"908a78630eeaafca","type":"text","text":"This is where scientists research chemical weapons for the use of war. They also conducted human experiments to learn how their gases would affect the human body.\n","x":-480,"y":-280,"width":485,"height":90},
+		{"id":"2c516a1edefa436b","type":"text","text":"Entry:\n\nThe entrance is from a manhole that leads onto a metal upper floor. \n","x":-480,"y":-140,"width":385,"height":130},
+		{"id":"7e3e459f7da47f50","type":"text","text":"Top floor:\n\nA large rectangular series of catwalks, that go across the entirety of this floor. \n\nMade of rusted metal and chains holding it a loft attached to the ceiling. There are gaps in between cat walks some of them are completely disintegrated and require jumps to cross.\n","x":-544,"y":60,"width":514,"height":217},
+		{"id":"d1f22538f8ffb7ab","type":"text","text":"Middle:\n\nStill similar cat walks but areas of the catwalks are covered in the acidic gas\n","x":-497,"y":360,"width":420,"height":100},
+		{"id":"144aab934bc23659","type":"text","text":"Bottom: \n\nMetal flooring covered in toxic acidic gas and hundreds of deformed zombie like humanoid bodies are littered throughout the floor. \n\n\nAt the far right: A statue with a slot  that a orb could fit into\n\nBottom: A statue with a shield and a slot for a sword\n\nLeft: A statue with a slot that could fit a shield \n","x":-537,"y":580,"width":500,"height":260},
+		{"id":"041bd1165ac6db78","type":"text","text":"[[Bio Labs.canvas]]\n#Volstarian_Dynasty ","x":-840,"y":-440,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"605e3665929e4b6e","fromNode":"2c516a1edefa436b","fromSide":"bottom","toNode":"7e3e459f7da47f50","toSide":"top"},
+		{"id":"8db2c4015f7c9fb7","fromNode":"7e3e459f7da47f50","fromSide":"bottom","toNode":"d1f22538f8ffb7ab","toSide":"top"},
+		{"id":"dd47b8142873360f","fromNode":"d1f22538f8ffb7ab","fromSide":"bottom","toNode":"144aab934bc23659","toSide":"top"}
+	]
+}
