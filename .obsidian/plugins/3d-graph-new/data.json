@@ -1,0 +1,228 @@
+{
+  "savedSettings": [
+    {
+      "id": "3853234e-6313-4fdf-a413-f28b85650add",
+      "title": "Default 3D view",
+      "setting": {
+        "filter": {
+          "searchQuery": "",
+          "showOrphans": true,
+          "showAttachments": true
+        },
+        "groups": [
+          {
+            "query": "tag:#Betrayer  ",
+            "color": "#ff0000"
+          },
+          {
+            "query": "tag:#DomainOfDread  ",
+            "color": "#36023b"
+          },
+          {
+            "query": "tag:#FeyWild  ",
+            "color": "#ee2f9f"
+          },
+          {
+            "query": "tag:#Item  ",
+            "color": "#4b2901"
+          },
+          {
+            "query": "tag:#levelUp  ",
+            "color": "#47ff85"
+          },
+          {
+            "query": "tag:#Lore  ",
+            "color": "#011ad5"
+          },
+          {
+            "query": "tag:#Melonia  ",
+            "color": "#c850d7"
+          },
+          {
+            "query": "tag:#NPC  ",
+            "color": "#fa3e00"
+          },
+          {
+            "query": "tag:#PlaneOfExistance  ",
+            "color": "#4e077e"
+          },
+          {
+            "query": "tag:#PlayerCharacter  ",
+            "color": "#05c1ff"
+          },
+          {
+            "query": "tag:#PrimeDeitie  ",
+            "color": "#fdff80"
+          },
+          {
+            "query": "tag:#ProtoAternis  ",
+            "color": "#899306"
+          },
+          {
+            "query": "tag:#RavenLoft  ",
+            "color": "#610000"
+          },
+          {
+            "query": "tag:#Session_Canvas  ",
+            "color": "#febc90"
+          },
+          {
+            "query": "tag:#Session_Note  ",
+            "color": "#0a267b"
+          },
+          {
+            "query": "tag:#Volstarian_Dynasty  ",
+            "color": "#c2bb00"
+          },
+          {
+            "query": "tag:#WildFort  ",
+            "color": "#00ff11"
+          }
+        ],
+        "display": {
+          "nodeSize": 3,
+          "linkThickness": 2,
+          "linkDistance": 100,
+          "nodeRepulsion": 2800,
+          "distanceFromFocal": 300,
+          "nodeHoverColor": "#ff0000",
+          "nodeHoverNeighbourColor": "#00ff00",
+          "linkHoverColor": "#0000ff",
+          "showExtension": false,
+          "showFullPath": false,
+          "showCenterCoordinates": true,
+          "showLinkArrow": true,
+          "dontMoveWhenDrag": false,
+          "dagOrientation": "null"
+        }
+      },
+      "type": "global"
+    }
+  ],
+  "temporaryLocalGraphSetting": {
+    "filter": {
+      "searchQuery": "",
+      "showOrphans": true,
+      "showAttachments": false,
+      "depth": 1,
+      "linkType": "both"
+    },
+    "groups": [],
+    "display": {
+      "nodeSize": 3,
+      "linkThickness": 2,
+      "linkDistance": 100,
+      "nodeRepulsion": 2800,
+      "distanceFromFocal": 300,
+      "nodeHoverColor": "#ff0000",
+      "nodeHoverNeighbourColor": "#00ff00",
+      "linkHoverColor": "#0000ff",
+      "showExtension": false,
+      "showFullPath": false,
+      "showCenterCoordinates": true,
+      "showLinkArrow": true,
+      "dontMoveWhenDrag": false,
+      "dagOrientation": "null"
+    }
+  },
+  "temporaryGlobalGraphSetting": {
+    "filter": {
+      "searchQuery": "",
+      "showOrphans": true,
+      "showAttachments": true
+    },
+    "groups": [
+      {
+        "query": "tag:#Betrayer  ",
+        "color": "#ff0000"
+      },
+      {
+        "query": "tag:#DomainOfDread  ",
+        "color": "#36023b"
+      },
+      {
+        "query": "tag:#FeyWild  ",
+        "color": "#ee2f9f"
+      },
+      {
+        "query": "tag:#Item  ",
+        "color": "#4b2901"
+      },
+      {
+        "query": "tag:#levelUp  ",
+        "color": "#47ff85"
+      },
+      {
+        "query": "tag:#Lore  ",
+        "color": "#011ad5"
+      },
+      {
+        "query": "tag:#Melonia  ",
+        "color": "#c850d7"
+      },
+      {
+        "query": "tag:#NPC  ",
+        "color": "#fa3e00"
+      },
+      {
+        "query": "tag:#PlaneOfExistance  ",
+        "color": "#4e077e"
+      },
+      {
+        "query": "tag:#PlayerCharacter  ",
+        "color": "#05c1ff"
+      },
+      {
+        "query": "tag:#PrimeDeitie  ",
+        "color": "#fdff80"
+      },
+      {
+        "query": "tag:#ProtoAternis  ",
+        "color": "#899306"
+      },
+      {
+        "query": "tag:#RavenLoft  ",
+        "color": "#610000"
+      },
+      {
+        "query": "tag:#Session_Canvas  ",
+        "color": "#febc90"
+      },
+      {
+        "query": "tag:#Session_Note  ",
+        "color": "#0a267b"
+      },
+      {
+        "query": "tag:#Volstarian_Dynasty  ",
+        "color": "#c2bb00"
+      },
+      {
+        "query": "tag:#WildFort  ",
+        "color": "#00ff11"
+      }
+    ],
+    "display": {
+      "nodeSize": 3,
+      "linkThickness": 2,
+      "linkDistance": 100,
+      "nodeRepulsion": 2800,
+      "distanceFromFocal": 300,
+      "nodeHoverColor": "#ff0000",
+      "nodeHoverNeighbourColor": "#00ff00",
+      "linkHoverColor": "#0000ff",
+      "showExtension": false,
+      "showFullPath": false,
+      "showCenterCoordinates": true,
+      "showLinkArrow": true,
+      "dontMoveWhenDrag": false,
+      "dagOrientation": "null"
+    }
+  },
+  "pluginSetting": {
+    "maxNodeNumber": 1000,
+    "searchEngine": "default",
+    "rightClickToPan": false,
+    "commandLeftClickNode": "openNodeInNewTab",
+    "commandRightClickNode": "focusNode"
+  }
+}
