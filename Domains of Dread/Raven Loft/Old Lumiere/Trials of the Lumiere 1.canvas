@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"6bac55adca15f849","x":-168,"y":-301,"width":250,"height":60,"type":"text","text":"[[Old Lumiere.canvas]]\n#RavenLoft "},
+		{"id":"053fd90cb684329c","x":-168,"y":-140,"width":708,"height":465,"type":"file","file":"Domains of Dread/images/Pasted image 20260916004303.png"},
+		{"id":"83e016fe6c6334d9","x":-168,"y":360,"width":508,"height":1034,"type":"file","file":"Domains of Dread/images/Pasted image 20260916004311.png"},
+		{"id":"f9990a673cf7b812","x":400,"y":360,"width":1080,"height":710,"type":"file","file":"Domains of Dread/images/Pasted image 20260916004319.png"},
+		{"id":"75d2f0aa64ac1175","x":480,"y":1120,"width":542,"height":320,"type":"text","text":"Death knights immunities are\n\nRadiant - 25\nFire - dead\nForce - dead\nCold - 30\n\nTo end these immunities you must destroy the orbs floating in the air, additionally if the death knight dies it will absorb the remaining hp in the healthiest orb, if there are no orbs then it dies.\n\n\nOnce he dies he will activate the magic within the earrings giving Arilia a form of True sight.\n"}
+	],
+	"edges":[]
+}

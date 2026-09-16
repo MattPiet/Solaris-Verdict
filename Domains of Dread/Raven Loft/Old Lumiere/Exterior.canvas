@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3ec6271dd73ae22a","type":"text","text":"[[Old Lumiere.canvas]]\n#RavenLoft ","x":-740,"y":-380,"width":250,"height":60},
+		{"id":"f5eda5f5b0b2be77","type":"text","text":"Roaming around the exterior of Old Lumiere is an ancient Purple Worm that has been trapped in a forever purgatory and is un killable unless the curse inflicted on it by Strahd is lifted.\n\n\nIn order to lift the curse you must dispel the glyph that appears on the rock with a 4th level dispel magic when the creature is under a quarter health left\n","x":-740,"y":-220,"width":590,"height":210},
+		{"id":"d846b2e049cbb608","type":"file","file":"Domains of Dread/images/Pasted image 20260916003907.png","x":-740,"y":40,"width":645,"height":907},
+		{"id":"16fa8e2b696ff647","type":"file","file":"Domains of Dread/images/Pasted image 20260916003917.png","x":-40,"y":-240,"width":1240,"height":1037}
+	],
+	"edges":[]
+}

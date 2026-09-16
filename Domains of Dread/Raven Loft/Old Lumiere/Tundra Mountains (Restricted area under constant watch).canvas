@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"15af9f888bd6e82d","x":-125,"y":-30,"width":625,"height":250,"type":"text","text":"A treacherous un forgiving landscape stuck in a perpetual ice storm littered with feral vampires and other creatures of the night.\n\nEvery night spent in the mountains can lead to exhaustion \n\nIf out doors its DC 16 constitution saving throw every morning to resist exhaustion.\n\n\n\n\n\nDepending on where you enter it may take from 2 days up to 2 weeks to reach Old Lumiere.\n"},
+		{"id":"d5779765bfe8ab49","x":-125,"y":-200,"width":250,"height":60,"type":"text","text":"[[Old Lumiere.canvas]]\n#RavenLoft "}
+	],
+	"edges":[]
+}

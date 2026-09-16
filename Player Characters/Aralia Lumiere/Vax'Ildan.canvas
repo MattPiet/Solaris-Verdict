@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"8b3aad72c8f31304","x":-474,"y":-393,"width":250,"height":60,"type":"text","text":"[[Aralia Lumiere.canvas]]\n#NPC "}
+		{"id":"8b3aad72c8f31304","type":"text","text":"[[Aralia Lumiere.canvas]]\n\n[[The Raven Queen, Matron of Ravens.canvas]]\n\n#NPC ","x":-474,"y":-393,"width":474,"height":153}
 	],
 	"edges":[]
 }

@@ -1,1 +1,2 @@
 #PlayerCharacter
+[[Player Characters.base]]

@@ -5,3 +5,4 @@ views:
       and:
         - file.name != "Vostarian Dynasty.base"
         - file.path.startsWith("Volstarian Dynasty")
+        - file.hasLink("Volstarian Dynasty/Vostarian Dynasty.base")

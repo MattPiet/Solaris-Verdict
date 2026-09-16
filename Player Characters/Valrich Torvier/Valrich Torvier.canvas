@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"d3b2a131b3a6eeb5","x":-461,"y":-300,"width":250,"height":60,"type":"text","text":"[[Player Characters.base]]\n#PlayerCharacter "}
+		{"id":"d3b2a131b3a6eeb5","type":"text","text":"[[Player Characters.base]]\n\n[[Player Characters/Valrich Torvier/Backstory.canvas|Backstory]]\n[[Theresa Torvir.canvas]]\n[[Lilette Torvir (Revilya).canvas]]\n[[Grandir Torvir.canvas]]\n\n[[Volstar.canvas]]\n\n#PlayerCharacter ","x":-520,"y":-340,"width":561,"height":260}
 	],
 	"edges":[]
 }

@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"43cad9827fa61d46","type":"text","text":"[[Armount.canvas]]\n#Volstarian_Dynasty ","x":-340,"y":-200,"width":250,"height":60}
+		{"id":"43cad9827fa61d46","type":"text","text":"[[Armount.canvas]]\n\n[[Forbidden Falls, Tomb of Nordgardan.canvas]]\n[[Main Square.canvas]]\n[[StoneBreaker home.canvas]]\n\n#Volstarian_Dynasty ","x":-560,"y":-200,"width":460,"height":200}
 	],
 	"edges":[]
 }

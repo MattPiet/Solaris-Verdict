@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"753943e981946e86","type":"text","text":"A Tiefling Illusionist who acts as the city's spymaster. Charming but cryptic, he rarely attends meetings in his true physical form, preferring to project intricate illusions.","x":-1020,"y":-340,"width":600,"height":80},
+		{"id":"143cb777f7a328ae","type":"text","text":"[[Council Members.canvas]]\n#NPC #Melonia ","x":-1020,"y":-500,"width":250,"height":80}
+	],
+	"edges":[]
+}

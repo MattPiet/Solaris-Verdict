@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"ee71b63e6750dd6b","type":"text","text":"[[Old Lumiere.canvas]]\n#RavenLoft ","x":-900,"y":-620,"width":250,"height":60},
+		{"id":"5a7e8d3bc844f879","type":"text","text":"Old and abandoned on this floor there is nothing at all no info no letters no evidence of the Lumiere. \n\nUnderneath the bed there is a secret hatch DC 18 Inv check to discover or if someone points it out on the map.\n","x":-900,"y":-520,"width":474,"height":158},
+		{"id":"b65d861d9c8363a1","type":"file","file":"Domains of Dread/images/Pasted image 20260916004008.png","x":-900,"y":-320,"width":700,"height":660}
+	],
+	"edges":[]
+}

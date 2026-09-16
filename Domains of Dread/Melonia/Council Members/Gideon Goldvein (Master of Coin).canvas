@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"7b939ffa1f8e14b1","type":"text","text":"[[Council Members.canvas]]\n#NPC #Melonia ","x":-1080,"y":-320,"width":250,"height":80},
+		{"id":"b5fcd4aaf8f0acd4","type":"text","text":"An eccentric, hyperactive Gnome Transmuter. He views economics through the strict lens of equivalent exchange and uses his magic to manage the city's physical infrastructure and resources.","x":-1080,"y":-200,"width":520,"height":100}
+	],
+	"edges":[]
+}

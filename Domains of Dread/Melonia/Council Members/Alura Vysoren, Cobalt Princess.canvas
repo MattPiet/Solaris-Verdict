@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"ff4885cdbdd07715","type":"text","text":"A powerful mage who has a mind designed for political structure and arcana. Alura is the current head of Melvain taking Divinas place and although a leader is kinda hearted wanting to help those around her","x":-1100,"y":-720,"width":480,"height":140},
+		{"id":"601c441bc7c16bc2","type":"text","text":"[[Council Members.canvas]]\n#NPC #Melonia ","x":-1350,"y":-1000,"width":250,"height":80}
+	],
+	"edges":[]
+}

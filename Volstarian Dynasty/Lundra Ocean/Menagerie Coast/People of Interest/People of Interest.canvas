@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"ceb5ebc6d1a1fd1c","x":-517,"y":-504,"width":250,"height":60,"type":"text","text":"[[Menagerie Coast.canvas]]\n#Volstarian_Dynasty "},
 		{"id":"72530dc7a0f84829","type":"file","file":"Volstarian Dynasty/Lundra Ocean/Menagerie Coast/images/Pasted image 20260915193553.png","x":180,"y":-520,"width":236,"height":400},
-		{"id":"5ec6bb9fa6a0e946","type":"file","file":"Volstarian Dynasty/Lundra Ocean/Menagerie Coast/images/Pasted image 20260915193549.png","x":-200,"y":-520,"width":292,"height":400}
+		{"id":"5ec6bb9fa6a0e946","type":"file","file":"Volstarian Dynasty/Lundra Ocean/Menagerie Coast/images/Pasted image 20260915193549.png","x":-200,"y":-520,"width":292,"height":400},
+		{"id":"ceb5ebc6d1a1fd1c","type":"text","text":"[[Menagerie Coast.canvas]]\n\n[[Boat Crew]]\n[[Captain Orli]]\n[[Duke Aratis lingord]]\n\n#Volstarian_Dynasty ","x":-660,"y":-600,"width":400,"height":200}
 	],
 	"edges":[]
 }

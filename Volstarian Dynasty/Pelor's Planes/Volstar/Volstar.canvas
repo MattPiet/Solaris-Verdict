@@ -1,6 +1,12 @@
 {
 	"nodes":[
-		{"id":"eec08be3c393d53f","x":-224,"y":-213,"width":250,"height":60,"type":"text","text":"[[Pelors' Planes.canvas]]\n#Volstarian_Dynasty "}
+		{"id":"eec08be3c393d53f","type":"text","text":"[[Pelors' Planes.canvas]]\n\n[[Dawn District.canvas]]\n[[Entertainment District.canvas]]\n[[Meadows Market.canvas]]\n[[Sky Ship Port.canvas]]\n[[The Prison.canvas]]\n\n#Volstarian_Dynasty ","x":-780,"y":-300,"width":720,"height":240},
+		{"id":"fbbcd3e622e3fdec","x":-545,"y":-520,"width":250,"height":60,"type":"text","text":"locations"},
+		{"id":"94a160ccca09bd28","x":540,"y":-580,"width":250,"height":60,"type":"text","text":"people"},
+		{"id":"7ed2e1ff0fc70434","x":540,"y":-325,"width":250,"height":50,"type":"text","text":"[[Noble Houses.canvas]]"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"046f58dd03d486a0","fromNode":"fbbcd3e622e3fdec","fromSide":"bottom","toNode":"eec08be3c393d53f","toSide":"top"},
+		{"id":"38da74c3b358512e","fromNode":"94a160ccca09bd28","fromSide":"bottom","toNode":"7ed2e1ff0fc70434","toSide":"top"}
+	]
 }

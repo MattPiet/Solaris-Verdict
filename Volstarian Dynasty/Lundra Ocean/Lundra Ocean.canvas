@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"acc3766050280dc5","type":"text","text":"[[Vostarian Dynasty.base]]\n#Volstarian_Dynasty ","x":-520,"y":-360,"width":250,"height":60}
+		{"id":"acc3766050280dc5","type":"text","text":"[[Vostarian Dynasty.base]]\n\n[[Darwin Port.canvas]]\n[[Drowned Anchor.canvas]]\n[[Menagerie Coast.canvas]]\n\n#Volstarian_Dynasty ","x":-520,"y":-360,"width":560,"height":200}
 	],
 	"edges":[]
 }

@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"cbc4a4ed0dc4a954","type":"text","text":"[[Melonia]]\n[[The Scholarium District.canvas]]\n[[The Woven Markets.canvas]]\n#Melonia ","x":-740,"y":-380,"width":403,"height":140},
+		{"id":"661a5c73141d2706","type":"text","text":"\nThe Endless Sprawl: The city of Melvain completely defies standard physics. It is built in vertical tiers—a dizzying, endless canopy of crooked, steeply-pitched roofs, smoking chimney stacks, and bustling storefronts floating freely in the sky.\n\nAether-Cobble Roads: The streets of the upper tiers are paved with enchanted masonry. From above, they look and feel like solid, weathered cobblestone. From below, they are completely translucent, looking like glass, which allows sunlight to filter all the way down to the lowest levels.\n\nMirror-Gates: Physical stairs are rare. Citizens and students travel between the vertical layers by walking (or pushing heavy luggage carts) directly into massive, freestanding, silver-framed mirrors. Stepping through one instantly teleports you to a corresponding mirror on a higher or lower floating street.\n","x":-740,"y":-200,"width":805,"height":290}
+	],
+	"edges":[]
+}

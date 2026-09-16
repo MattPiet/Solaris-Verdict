@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"92a0894d50634915","type":"text","text":"A stoic Dragonborn wizard from the Order of Scribes. He possesses a flawless photographic memory, speaks only when entirely necessary, and guards Melonia's deepest historical secrets.","x":-960,"y":-200,"width":560,"height":100},
+		{"id":"e6fc63087de931ba","type":"text","text":"[[Council Members.canvas]]\n#NPC #Melonia ","x":-960,"y":-340,"width":250,"height":80}
+	],
+	"edges":[]
+}

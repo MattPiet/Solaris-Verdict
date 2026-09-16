@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"63366d3825c5a9fc","type":"text","text":"[[Belmont City.canvas]]\n#RavenLoft ","x":-240,"y":-100,"width":250,"height":60},
+		{"id":"32c8a0f0161b85ea","x":-240,"y":20,"width":505,"height":110,"type":"text","text":"In the center is the platform where the solar device is located and beneath it the dungeon that contains The Change Bringers staff.\n"}
+	],
+	"edges":[]
+}

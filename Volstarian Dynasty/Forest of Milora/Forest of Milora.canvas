@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"437a01afa599e689","type":"text","text":"[[Vostarian Dynasty.base]]\n#Volstarian_Dynasty ","x":-380,"y":-400,"width":250,"height":63}
+		{"id":"437a01afa599e689","type":"text","text":"[[Vostarian Dynasty.base]]\n\n[[Dásos Neroú.canvas]]\n[[Yormindar.canvas]]\n#Volstarian_Dynasty ","x":-380,"y":-400,"width":420,"height":140}
 	],
 	"edges":[]
 }

@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"6b06138f4371aaea","x":-482,"y":-411,"width":250,"height":60,"type":"text","text":"[[Kaer Moren.canvas]]\n#WildFort"}
+		{"id":"6b06138f4371aaea","type":"text","text":"[[Kaer Moren.canvas]]\n\n[[Glant Cilindrath]]\n[[Heav Hugar]]\n[[Lockrin Pue]]\n[[Svon Silforth]]\n\n\n#WildFort","x":-482,"y":-411,"width":462,"height":211}
 	],
 	"edges":[]
 }

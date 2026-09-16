@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"b408d5537f63b288","x":-460,"y":-160,"width":545,"height":150,"type":"text","text":"Home to the Monster Massacres, within the city but on the outskirts closest to the woods\n\n\nA tree brushed landscape under constant military watch\n"},
+		{"id":"8c4e3e89df8a5e10","x":-437,"y":120,"width":917,"height":520,"type":"text","text":"Monsters Massacres:\n\nA guild of Monster hunters who work contracts to hunt mist horrors within the woods and kill them before they can make it into Belmont City. Sometimes the hunters are even contracted to hunt creatures dwelling within Barovia.\n\nLead by Evalin Fang a Dhampir woman who has seen much to many fights, a brash warrior who values honor respect and the heart to do what's needed to protect those who need it.\n\nSymbol:  Dead Beholder with a Sword pierced through its eye.\n\nWooden place lit with electrical lighting. \n\nBottom floor is a large circular chamber with a board far off to the left atop a slight step. The far end has a counter top with a hobgoblin man named Mark Marcues aiding people. To the right is a staircase that leads to a platform with a railing above. \n\nJob Board:\n\nHunt a high Vampire in Valaki named Barro Vinwrath.\n\nHunt a pack of ware wolves in the lands near the hidden entrance.\n\nLocate Rudolf Van Richten\n"},
+		{"id":"5b9f374f8169547e","x":-460,"y":-360,"width":250,"height":60,"type":"text","text":"[[Belmont City.canvas]]\n#RavenLoft "}
+	],
+	"edges":[]
+}

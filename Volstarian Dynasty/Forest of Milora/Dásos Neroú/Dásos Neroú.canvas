@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"eb70421c988e484e","x":-383,"y":-209,"width":250,"height":60,"type":"text","text":"[[Forest of Milora.canvas]]\n#Volstarian_Dynasty "}
+		{"id":"eb70421c988e484e","type":"text","text":"[[Forest of Milora.canvas]]\n[[Emberhold.canvas]]\n[[Milora's Gardens.canvas]]\n[[Water Well.canvas]]\n[[Waving Tides.canvas]]\n#Volstarian_Dynasty ","x":-940,"y":-420,"width":643,"height":229}
 	],
 	"edges":[]
 }

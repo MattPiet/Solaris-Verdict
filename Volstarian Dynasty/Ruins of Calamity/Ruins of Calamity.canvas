@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"2f65d65d3745c1fb","x":-522,"y":-333,"width":250,"height":60,"type":"text","text":"[[Vostarian Dynasty.base]]\n#Volstarian_Dynasty "}
+		{"id":"2f65d65d3745c1fb","type":"text","text":"[[Vostarian Dynasty.base]]\n\n[[Dead Mans Crossing.canvas]]\n[[Fort Grey Stone.canvas]]\n\n#Volstarian_Dynasty ","x":-522,"y":-333,"width":342,"height":173}
 	],
 	"edges":[]
 }

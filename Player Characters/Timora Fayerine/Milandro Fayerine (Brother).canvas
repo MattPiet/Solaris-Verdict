@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"0367862770b4f0a3","type":"text","text":"[[Timora Fayerine.canvas]]\n#NPC ","x":-227,"y":-114,"width":250,"height":60},
+		{"id":"01606350b2c118ea","type":"text","text":"Alive","x":-22,"y":55,"width":250,"height":60}
+	],
+	"edges":[]
+}

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"60e6716e0a2af187","type":"text","text":"[[Old Lumiere.canvas]]\n#RavenLoft ","x":-680,"y":-420,"width":250,"height":60},
+		{"id":"0a0bcaff37b259f2","type":"text","text":"The Bedroom of Ravina Lumiere when she was a child.\n\nWithin the wardrobe are a set of black Diamond earrings that glow a faint purple glow.\n","x":-680,"y":-300,"width":449,"height":124},
+		{"id":"42eab6d307c8426a","type":"file","file":"Domains of Dread/images/Pasted image 20260916004048.png","x":-680,"y":-140,"width":840,"height":573}
+	],
+	"edges":[]
+}

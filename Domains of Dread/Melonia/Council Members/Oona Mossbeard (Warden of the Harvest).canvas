@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"46033c52145699b2","type":"text","text":"A towering Firbolg Druid responsible for the region's agriculture and weather manipulation. Gentle, a bit disorganized, and usually brings dirt and small animals into the council chambers.","x":-1120,"y":-260,"width":565,"height":90},
+		{"id":"d0ab79de66bed681","type":"text","text":"[[Council Members.canvas]]\n#NPC #Melonia ","x":-1120,"y":-440,"width":250,"height":80}
+	],
+	"edges":[]
+}

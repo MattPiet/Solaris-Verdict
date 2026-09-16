@@ -3,4 +3,4 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "Session Notes"
+        - file.hasLink("Session Notes/Sessions.base")

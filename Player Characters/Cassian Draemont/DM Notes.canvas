@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"2ee0703a8b6815e3","x":-549,"y":-334,"width":250,"height":60,"type":"text","text":"[[Cassian Draemont.canvas]]\n#PlayerCharacter "}
+	],
+	"edges":[]
+}

@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"ec4f30653832249b","x":-600,"y":-240,"width":250,"height":60,"type":"text","text":"[[Linarian Veykar.canvas]]\n#NPC "},
+		{"id":"7f172b8101e05bc7","x":-293,"y":-112,"width":313,"height":52,"type":"text","text":"Dead: killed by Ludeien Mardanwyn"}
+	],
+	"edges":[]
+}

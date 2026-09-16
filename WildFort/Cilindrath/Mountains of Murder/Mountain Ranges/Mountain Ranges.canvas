@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"39b6e3b4d9b51dc8","type":"text","text":"[[Mountains of Murder.canvas]]\n#WildFort","x":-620,"y":-500,"width":250,"height":60}
+		{"id":"39b6e3b4d9b51dc8","type":"text","text":"[[Mountains of Murder.canvas]]\n\n[[North end, Rocks Resting grounds.canvas]]\n[[East end, Slaughters peak.canvas]]\n[[South end, Muted Amalgamations.canvas]]\n[[Western end, Fractured Ravine.canvas]]\n\n#WildFort","x":-820,"y":-580,"width":380,"height":220}
 	],
 	"edges":[]
 }

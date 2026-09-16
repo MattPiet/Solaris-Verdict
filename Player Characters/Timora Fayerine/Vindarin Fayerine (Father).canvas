@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"7b3d6cb2198a693a","type":"text","text":"[[Timora Fayerine.canvas]]\n#NPC ","x":-620,"y":-360,"width":250,"height":60},
+		{"id":"3f2ae182d63b91f5","x":-370,"y":-220,"width":250,"height":60,"type":"text","text":"Lives in Vasselhiem"}
+	],
+	"edges":[]
+}

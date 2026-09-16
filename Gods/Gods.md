@@ -1,0 +1,7 @@
+[[Gods.base]]
+
+
+#PrimeDeitie #Betrayer
+
+
+

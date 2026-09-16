@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"6608eec9ad091ed7","type":"text","text":"A somber Shadar-kai Necromancer who acts as the city's chief forensic investigator. He breaks typical dark magic stereotypes by using necromancy to solve murders, speaking with victims to ensure justice is served.","x":-1120,"y":-200,"width":525,"height":110},
+		{"id":"c40925a96a815918","type":"text","text":"[[Council Members.canvas]]\n#NPC #Melonia ","x":-1120,"y":-380,"width":250,"height":80}
+	],
+	"edges":[]
+}

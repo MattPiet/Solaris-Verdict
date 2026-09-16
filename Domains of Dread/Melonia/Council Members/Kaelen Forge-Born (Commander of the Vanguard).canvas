@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"9c799bf480fdc994","type":"text","text":"A brash Dwarven Evoker who integrates explosive magic with military tactics. Loud, fiercely loyal, and oversees the training of the city's battle mages.","x":-1160,"y":-220,"width":480,"height":95},
+		{"id":"0137112f46102e7c","type":"text","text":"[[Council Members.canvas]]\n#NPC #Melonia ","x":-1160,"y":-360,"width":250,"height":80}
+	],
+	"edges":[]
+}

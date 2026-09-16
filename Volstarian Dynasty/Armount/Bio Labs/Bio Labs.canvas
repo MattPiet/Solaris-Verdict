@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"bba4c1094877f9e2","x":-332,"y":-392,"width":250,"height":60,"type":"text","text":"[[Armount.canvas]]\n#Volstarian_Dynasty "}
+		{"id":"bba4c1094877f9e2","type":"text","text":"[[Armount.canvas]]\n\n[[Volstarian Dynasty/Armount/Bio Labs/Exterior.canvas]]\n[[Layer One, Green Room.canvas]]\n[[Layer Two, The Decontamination Grid.canvas]]\n[[Layer Three, The Chimera Pens.canvas]]\n[[Layer Four, The Spore Archives.canvas]]\n[[Layer Five, The Sanguine Centrifuge.canvas]]\n[[Layer Six, Sanguine Unheilg.canvas]]\n#Volstarian_Dynasty ","x":-640,"y":-480,"width":440,"height":220}
 	],
 	"edges":[]
 }

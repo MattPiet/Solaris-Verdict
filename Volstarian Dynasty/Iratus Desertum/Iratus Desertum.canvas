@@ -1,7 +1,10 @@
 {
 	"nodes":[
-		{"id":"a4113238e04ebb63","x":-359,"y":-298,"width":250,"height":60,"type":"text","text":"[[Vostarian Dynasty.base]]\n#Volstarian_Dynasty "},
-		{"id":"39f700b259e1b9d3","x":-359,"y":-160,"width":505,"height":70,"type":"text","text":"All seeking power over each other but also rely on each other for business\n"}
+		{"id":"39f700b259e1b9d3","type":"text","text":"All seeking power over each other but also rely on each other for business\n","x":-359,"y":-160,"width":505,"height":70},
+		{"id":"a4113238e04ebb63","type":"text","text":"[[Vostarian Dynasty.base]]\n\n[[Bardgon Fort.canvas]]\n[[Dragon Canyon.canvas]]\n[[Marqes Ban.canvas]]\n[[Xroas.canvas]]\n[[Zindor.canvas]]\n\n#Volstarian_Dynasty ","x":-520,"y":-540,"width":760,"height":220},
+		{"id":"3071afab8fe9f45e","x":-435,"y":-664,"width":250,"height":60,"type":"text","text":"Locations"},
+		{"id":"9729524b573b0d24","x":476,"y":-635,"width":250,"height":60,"type":"text","text":"Familes"},
+		{"id":"fab1fef8d87f1ad8","x":439,"y":-548,"width":441,"height":118,"type":"text","text":"[[Mardanwyn.canvas]]\n[[Ardynein.canvas]]\n[[Zilphorth.canvas]]"}
 	],
 	"edges":[]
 }

@@ -5,3 +5,4 @@ views:
       and:
         - file.name != "WildFort.base"
         - file.path.startsWith("WildFort")
+        - file.hasLink("WildFort/WildFort.base")

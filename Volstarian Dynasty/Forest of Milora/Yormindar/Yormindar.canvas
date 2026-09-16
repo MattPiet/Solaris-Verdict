@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"8fdda532695fe3bd","x":-379,"y":-252,"width":250,"height":60,"type":"text","text":"[[Forest of Milora.canvas]]\n#Volstarian_Dynasty "}
+		{"id":"8fdda532695fe3bd","type":"text","text":"[[Forest of Milora.canvas]]\n[[Emberhold.canvas]]\n[[Hall of Glowing Mushrooms.canvas]]\n[[Residuum mines.canvas]]\n[[The Bottom Slab (the Pit).canvas]]\n[[The Center Slab (The Heart).canvas]]\n[[The Forge of Creation.canvas]]\n[[Web of the Spider Queen.canvas]]\n#Volstarian_Dynasty ","x":-840,"y":-540,"width":960,"height":260}
 	],
 	"edges":[]
 }

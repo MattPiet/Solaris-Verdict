@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"ac7761e85b443028","type":"text","text":"[[Aralia Lumiere.canvas]]\n#NPC #Volstarian_Dynasty ","x":-900,"y":-780,"width":250,"height":60}
+		{"id":"ac7761e85b443028","type":"text","text":"[[Aralia Lumiere.canvas]]\n\n[[The Raven Queen, Matron of Ravens.canvas]]\n\n#NPC #Volstarian_Dynasty ","x":-1140,"y":-900,"width":380,"height":180}
 	],
 	"edges":[]
 }

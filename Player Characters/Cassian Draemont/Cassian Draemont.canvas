@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"1a42cc0e428a1efc","type":"text","text":"[[Player Characters.base]]\n#PlayerCharacter ","x":-465,"y":-301,"width":250,"height":60}
+		{"id":"1a42cc0e428a1efc","type":"text","text":"[[Player Characters.base]]\n\n[[Player Characters/Cassian Draemont/Backstory.canvas|Backstory]]\n[[Player Characters/Cassian Draemont/DM Notes.canvas|DM Notes]]\n\n#PlayerCharacter ","x":-465,"y":-301,"width":405,"height":181}
 	],
 	"edges":[]
 }

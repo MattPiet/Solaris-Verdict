@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"74f2a31721ea4551","x":-396,"y":-378,"width":250,"height":60,"type":"text","text":"[[Player Characters]]\n#PlayerCharacter "}
+		{"id":"74f2a31721ea4551","type":"text","text":"[[Player Characters.base]]\n\n[[Player Characters/Aralia Lumiere/Backstory.canvas|Backstory]]\n[[Divina Cilindrath.canvas]]\n[[Player Characters/Aralia Lumiere/DM Notes.canvas|DM Notes]]\n[[Maelle Lumiere.canvas]]\n[[Vax'Ildan.canvas]]\n[[Azest Thyless.canvas]]\n[[Alivia Divina.canvas]]\n\n[[Xroas.canvas]]\n\n#PlayerCharacter ","x":-396,"y":-378,"width":656,"height":358}
 	],
 	"edges":[]
 }

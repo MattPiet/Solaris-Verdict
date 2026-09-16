@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"9186a9df79735e1a","x":-400,"y":-323,"width":250,"height":60,"type":"text","text":"[[WildFort.base]]\n#WildFort"},
-		{"id":"8ad632be138061da","x":-397,"y":-240,"width":245,"height":70,"type":"text","text":"A mountain range that is the body of a titan\n"}
+		{"id":"8ad632be138061da","type":"text","text":"A mountain range that is the body of a titan\n","x":-397,"y":-240,"width":245,"height":70},
+		{"id":"9186a9df79735e1a","type":"text","text":"[[WildFort.base]]\n[[Broomestone Crag.canvas]]\n[[Mountain Ranges.canvas]]\n#WildFort","x":-600,"y":-420,"width":300,"height":140}
 	],
 	"edges":[]
 }

@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"09569580a489c8cd","x":-700,"y":-249,"width":250,"height":60,"type":"text","text":"[[Linarian Veykar.canvas]]\n#NPC "},
+		{"id":"222f3a3174961976","x":-640,"y":-120,"width":525,"height":130,"type":"text","text":"Currently living in a beach side house with direct beach access.\n\nSimira loves Linarian but knows that he still needs to find himself and she wont pull him away from his quest to do so.\n"}
+	],
+	"edges":[]
+}

@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"82787ea854b988cb","x":-522,"y":-346,"width":250,"height":60,"type":"text","text":"[[Noble Houses.canvas]]\n#NPC #Volstarian_Dynasty "}
+		{"id":"82787ea854b988cb","type":"text","text":"[[Noble Houses.canvas]]\n\n[[Aralia Lumiere.canvas]]\n\n#NPC #Volstarian_Dynasty ","x":-522,"y":-346,"width":302,"height":106}
 	],
 	"edges":[]
 }
