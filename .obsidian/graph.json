@@ -97,6 +97,20 @@
         "a": 1,
         "rgb": 25343
       }
+    },
+    {
+      "query": "tag:#Item  ",
+      "color": {
+        "a": 1,
+        "rgb": 6174723
+      }
+    },
+    {
+      "query": "tag:#levelUp  ",
+      "color": {
+        "a": 1,
+        "rgb": 6153574
+      }
     }
   ],
   "collapse-display": true,
@@ -109,6 +123,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.16348370567220044,
+  "scale": 0.16348370567220036,
   "close": true
 }
