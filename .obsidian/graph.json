@@ -8,114 +8,107 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#FeyWild  ",
-      "color": {
-        "a": 1,
-        "rgb": 15745738
-      }
-    },
-    {
-      "query": "tag:#NPC  ",
-      "color": {
-        "a": 1,
-        "rgb": 15294486
-      }
-    },
-    {
-      "query": "tag:#PlaneOfExistance  ",
-      "color": {
-        "a": 1,
-        "rgb": 3412049
-      }
-    },
-    {
-      "query": "tag:#PlayerCharacter  ",
-      "color": {
-        "a": 1,
-        "rgb": 1359841
-      }
-    },
-    {
-      "query": "tag:#Session_Canvas  ",
-      "color": {
-        "a": 1,
-        "rgb": 14391613
-      }
-    },
-    {
       "query": "tag:#Session_Note  ",
       "color": {
         "a": 1,
-        "rgb": 1730
+        "rgb": 1312480
+      }
+    },
+    {
+      "query": "tag:#Session_Canvas",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#WildFort",
+      "color": {
+        "a": 1,
+        "rgb": 1367825
+      }
+    },
+    {
+      "query": "tag:#NPC",
+      "color": {
+        "a": 1,
+        "rgb": 13661195
       }
     },
     {
       "query": "tag:#Volstarian_Dynasty  ",
       "color": {
         "a": 1,
-        "rgb": 13685517
-      }
-    },
-    {
-      "query": "tag:#WildFort  ",
-      "color": {
-        "a": 1,
-        "rgb": 1360416
+        "rgb": 13748736
       }
     },
     {
       "query": "tag:#PrimeDeitie  ",
       "color": {
         "a": 1,
-        "rgb": 15918953
+        "rgb": 15132776
       }
     },
     {
       "query": "tag:#Betrayer  ",
       "color": {
         "a": 1,
-        "rgb": 12257031
+        "rgb": 15402245
       }
     },
     {
       "query": "tag:#DomainOfDread  ",
       "color": {
         "a": 1,
-        "rgb": 3081538
+        "rgb": 3342413
+      }
+    },
+    {
+      "query": "tag:#PlaneOfExistance  ",
+      "color": {
+        "a": 1,
+        "rgb": 8651925
       }
     },
     {
       "query": "tag:#Melonia  ",
       "color": {
         "a": 1,
-        "rgb": 8260749
+        "rgb": 13655035
       }
     },
     {
       "query": "tag:#RavenLoft  ",
       "color": {
         "a": 1,
-        "rgb": 4785156
+        "rgb": 4719620
       }
     },
     {
-      "query": "tag:#ProtoAternis  ",
+      "query": "tag:#PlayerCharacter  ",
       "color": {
         "a": 1,
-        "rgb": 10727268
+        "rgb": 40447
+      }
+    },
+    {
+      "query": "tag:#Lore  ",
+      "color": {
+        "a": 1,
+        "rgb": 25343
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.05322926829268,
-  "lineSizeMultiplier": 1.02263414634146,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.406829268292683,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.45050811767576426,
-  "close": false
+  "scale": 0.2292013594174868,
+  "close": true
 }

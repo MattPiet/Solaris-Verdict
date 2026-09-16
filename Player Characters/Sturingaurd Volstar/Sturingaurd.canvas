@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"dc351aa25c3ecb8a","type":"text","text":"[[Player Characters.base]]\n[[The Dawn Father, Pellor.canvas]]\n[[The Storm Lord, Normingander.canvas]]\n\n[[Storm Crest.canvas]]\n\n#PlayerCharacter ","x":-480,"y":-380,"width":460,"height":240}
+		{"id":"dc351aa25c3ecb8a","type":"text","text":"[[Player Characters.base]]\n[[The Dawn Father, Pellor.canvas]]\n[[The Storm Lord, Normingander.canvas]]\n\n[[Player Characters/Sturingaurd Volstar/Backstory.canvas|Backstory]]\n[[Guldar StoneBreaker.canvas]]\n[[Phaien Volstar.canvas]]\n[[Thenda StoneBreaker (Ireena now).canvas]]\n[[Blandin Lingrand.canvas]]\n[[Basil Drimingard.canvas]]\n\n\n[[Storm Crest.canvas]]\n\n#PlayerCharacter ","x":-480,"y":-380,"width":540,"height":340}
 	],
 	"edges":[]
 }

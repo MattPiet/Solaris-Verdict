@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"f4e36d765e045e1f","x":-380,"y":-220,"width":250,"height":60,"type":"text","text":"[[Vivianne Lockwood.canvas]]\n#NPC"},
+		{"id":"d7a11d57a8ba1097","x":-298,"y":-100,"width":250,"height":60,"type":"text","text":"Dead"}
+	],
+	"edges":[]
+}
