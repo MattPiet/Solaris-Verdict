@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"b4349e6203dbb29a","x":-451,"y":-296,"width":250,"height":60,"type":"text","text":"[[Volstar.canvas]]\n#Volstarian_Dynasty "},
+		{"id":"9a5346cba3919944","x":-440,"y":-160,"width":545,"height":70,"type":"text","text":" Located in the Dawn District near lights respite as to be close to Ceasars watch.\n"},
+		{"id":"02e169e071e67901","x":-480,"y":-60,"width":680,"height":220,"type":"text","text":" The main floor:\n\nThe exterior of the prison is made of reinforced stone brick with metal and is vary small as most of it is under ground.\n\nAs you enter the prison you walk into a wooden floored seating room with a counter at the far side a cell barred door to the right of it leading to a stair case below. Working at the desk his a human man named Vorn (Brown hair and short beard 40s)\n"},
+		{"id":"d7587813969225a1","x":-438,"y":260,"width":597,"height":281,"type":"text","text":" There are 8 floors below in total the first 7 being structured the same.\n\n1-7:\n\nA long dark hallway of stone the walls are bared cells within are criminals of all kinds the cells have two beds a whole in the ground and a bucket on a table.\n\nThe row of cells continue for 60 feet before reaching a steel door that opens to a spiral staircase leading to the floor below.\n"},
+		{"id":"bfdf22f538244bfa","x":-494,"y":600,"width":710,"height":380,"type":"text","text":" Floor 8: \n\nAt the end of the 7th floor is a door made of DarkSilver with residuum in the center forming a sigil only those who bear the Volstar mark can open the door.\n\nBehind it is a spiral staircase the walls and steps made with Dark Silver.\n\nThe prison chamber is a long hallway with solid walls of Dark Silver that reach to the end at about 400 feet. Every 20 feet there is a door. \n\nAt the very end of the hall is a door guarded by 30 men and 10 mages with two sigils on it one blue one purple. \n\nCurrently within the cell is a torch lit room with the same material walls ceiling and floor and strapped standing to a cross being repeatedly struck with a whip that is spiked like a flail at the end held by Azest Thyless is a creature dark grey skin blind folded and crucified.\n"}
+	],
+	"edges":[
+		{"id":"24449e84e1e9487f","fromNode":"02e169e071e67901","fromSide":"bottom","toNode":"d7587813969225a1","toSide":"top"},
+		{"id":"b98ea2e10588ddd9","fromNode":"d7587813969225a1","fromSide":"bottom","toNode":"bfdf22f538244bfa","toSide":"top"}
+	]
+}

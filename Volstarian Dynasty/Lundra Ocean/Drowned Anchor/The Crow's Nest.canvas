@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"92d3fb142744fa0e","x":-460,"y":-353,"width":250,"height":60,"type":"text","text":"[[Drowned Anchor.canvas]]\n#Volstarian_Dynasty "},
+		{"id":"0bb1d91ada2eecb1","x":-480,"y":-240,"width":625,"height":170,"type":"text","text":"The Chain-Lift (The Entrance): \n\nInstead of stairs, the only way up from The Gantries is a massive, wooden platform hoisted by thick iron chains and operated by a grinding winch system. It takes two full minutes to reach the top, leaving whoever is on the platform completely exposed to the guards above.\n"},
+		{"id":"b7753e054f07e721","x":-400,"y":20,"width":676,"height":200,"type":"text","text":"The Iron Deck (The Throne Room): The Tide King doesn't have a closed-off throne room. His seat of power is the aft deck of a massive, heavily armored dreadnought that was somehow hauled up the cliffside piece by piece.\n\t• The Layout: The deck provides a sprawling, multi-tiered combat space. Heavy ballistas are mounted along the railings, pointing down at the town below to keep the peace.\n\t• The Throne: The Tide King sits on a massive chair forged from melted-down naval cannons and broken anchors, surrounded by his elite, heavily armored bruisers.\n"},
+		{"id":"6d2782b3f8ce6bf2","x":-400,"y":280,"width":663,"height":140,"type":"text","text":"The Captain's Quarters (The Vault): Located beneath the Iron Deck, inside the hull of the dreadnought. This is the only fully enclosed area in The Crow's Nest.\n\t• The Goods: It contains the King's personal hoard, the ledgers of every bribe taken on the island, and the heavy, arcane-infused branding iron he uses to \"authorize\" navigation tools like the compass Azest bought.\n"}
+	],
+	"edges":[]
+}

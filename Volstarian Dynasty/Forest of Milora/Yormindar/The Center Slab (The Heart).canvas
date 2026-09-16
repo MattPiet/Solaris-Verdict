@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"51432c5ab4bc0fca","type":"text","text":"[[Yormindar.canvas]]\n#Volstarian_Dynasty ","x":-500,"y":-140,"width":250,"height":60},
+		{"id":"f1a01a21fe58b54c","type":"text","text":"The Center of the city also known as the heart. This is the largest area of Yormindar and is where most of the denizens of the city live. Also the area where the nobles live and in the dead center of the Slab known as the heart is a massive shrine and temple of the All-Hammer. ","x":-460,"y":100,"width":600,"height":120},
+		{"id":"f499281a3f0e1658","type":"text","text":"Places of interest\n","x":-60,"y":340,"width":180,"height":60},
+		{"id":"bb3abf7f9dfc6468","type":"text","text":"ThunderBrand Manor:\n\nHead of all trade regarding residuum. \n\nKuzmen ThunderBrand is the Nobleman of the house and He will be the one to get the aid of the party asking them to go into the mines to help find his daughter and kill monsters that have been spotted in the bottom of it. He is also the man that Caesars letter was to and the letter details that the party would help with his formal request. \n\nThe Manor is on the west side of the city and has a fence surrounding the house with a arcane spell placed on it. \n\nAny body who touches the fence must make a DC 15 Dex save or suffer 3d10 lightening damage. \n\nKriana ThunderBrand is the daughter of Kuzmen ThunderBrand\n\nVictoria Silvendar is the maid and messenger of the ThunderBrand family and will be the one to seek out Lucy to guide her to the manor.\n\n","x":-700,"y":580,"width":840,"height":400},
+		{"id":"7d3f1558e078756b","x":180,"y":580,"width":824,"height":312,"type":"text","text":"All-Hammer's Will:\n\nAn extravagant marble temple in the center of the city. On top of the temple doors is a symbol of the All-Hammer which is a hammer striking an anvil.\n\nThe high priest Burvano Yormindar Is the one and only living direct descendant of the family who founded the city.\n\nBeyond the temple doors opens to a massive chapel with a door on each far left and right. In front of the main chapel entrance is a row of marble pews and stained glass depicting the creation of the city under the glory of the All-Hammer. At the very end of the chapel is a stage where the high priest stands giving celebration to the city and preaching to its people.\n\n"}
+	],
+	"edges":[
+		{"id":"6f9abe379807d17d","fromNode":"f499281a3f0e1658","fromSide":"bottom","toNode":"bb3abf7f9dfc6468","toSide":"top"},
+		{"id":"4033afe5618ee44d","fromNode":"f499281a3f0e1658","fromSide":"bottom","toNode":"7d3f1558e078756b","toSide":"top"}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"38ef900be36ba7f6","type":"text","text":"[[Yormindar.canvas]]\n#Volstarian_Dynasty ","x":-580,"y":-440,"width":250,"height":70},
+		{"id":"5771c5b2425122e8","x":-580,"y":-320,"width":565,"height":110,"type":"text","text":"The Greyspine mines descend hundreds of thousands of feet with many interconnected passages making it incredibly difficult to actually map. From the bottom there are 2 known floors 100 thousand feet apart and there are 2 unmapped area's\n"},
+		{"id":"a9778501094b5d1a","x":-140,"y":-80,"width":250,"height":55,"type":"text","text":"The 2 Mapped floors\n"},
+		{"id":"8ecd15a70cd64ee9","x":-511,"y":140,"width":496,"height":115,"type":"text","text":"Hall of Glowing Mushrooms:\n\nThe Hall of Mushrooms is a gigantic opening with millions of growing fungi of all different kinds\n\n"},
+		{"id":"3f88b4078f20d65c","x":140,"y":140,"width":500,"height":140,"type":"text","text":"Residuum mines:\n\nThe Bottom most part of Yormindar, anything passed this floor is unmapped and not owned by the city. Because below this floor is the underdark.\n"},
+		{"id":"54692597213569cd","x":-140,"y":380,"width":250,"height":60,"type":"text","text":"Unmapped Underdark\n"},
+		{"id":"3000c3864118e4a5","x":60,"y":620,"width":492,"height":119,"type":"text","text":"Web of the Spider Queen:\n\nA city deep in the bottom of the underdark home to the majority of Lolth sworn drow in the world. \n"},
+		{"id":"0d4e92be8db0e0ca","x":-620,"y":610,"width":380,"height":129,"type":"text","text":"Emberhold:\n\nA giant city of fire giants with lava flowing all throughout the city\n\n"}
+	],
+	"edges":[
+		{"id":"167cf30544675a3e","fromNode":"a9778501094b5d1a","fromSide":"bottom","toNode":"8ecd15a70cd64ee9","toSide":"top"},
+		{"id":"31554d8858bcf36a","fromNode":"a9778501094b5d1a","fromSide":"bottom","toNode":"3f88b4078f20d65c","toSide":"top"},
+		{"id":"688cd096e808afd0","fromNode":"54692597213569cd","fromSide":"bottom","toNode":"3000c3864118e4a5","toSide":"top"},
+		{"id":"d895e45aa1cdfc6a","fromNode":"54692597213569cd","fromSide":"bottom","toNode":"0d4e92be8db0e0ca","toSide":"top"}
+	]
+}

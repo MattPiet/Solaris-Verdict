@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"1dbb8dc4cec8f750","x":-383,"y":-310,"width":250,"height":60,"type":"text","text":"[[Sturingaurd.canvas]]\n#NPC #Volstarian_Dynasty "},
+		{"id":"de59ee203361d0eb","x":-360,"y":-180,"width":250,"height":50,"type":"text","text":"Thenda is Stus half sister\n"},
+		{"id":"ef34cc62cb35b491","x":-480,"y":-100,"width":625,"height":230,"type":"text","text":"Thenda looked after Stu when his mother died and raised him to be who he is today. Raised by a barbaric man and a equally barbaric mother when Phaien returned Thenda often tried to protect her and help her whenever she could.\n\nThenda instilled the values and wishes that Phaien wanted her son to have but also stay true to a request to keep him in the dark. Phaien did not want Stu to become lost in rage and end up a murderer like his father, she wanted him to become a beacon of hope for the people of Storm Crest.\n"},
+		{"id":"fb85d7db140e3d7c","x":-409,"y":320,"width":598,"height":184,"type":"text","text":"Her plan for Storm Crest:\n\nAfter Stu was banished from the village Thenda became fed up with her father and began to plot his demise and began gathering allies. For years she waited for a chance and when she heard that Stu was given the name Volstar she knew he would return and attempted to strike. Guldar found out what she had been plotting.\n"},
+		{"id":"4fb2fa6a13c9f2ba","x":240,"y":-86,"width":659,"height":203,"type":"text","text":"Achilles and Thenda:\n\nThey ran into each other on the mountain tops and when Thenda told Achilles about Phaien he quickly became friends with her and wanted to end Guldar but she told him she had it covered. She showed him the way through the ruins of Armount and the location of the Bio labs. This was one year after Stus banishment, she made sure he wouldn’t tell anyone about Stu as it was his mothers last wish.\n"},
+		{"id":"0f34ca02b7263a2a","x":280,"y":320,"width":559,"height":143,"type":"text","text":"Armount:\n\nAfter being found out, Thenda and all of her followers were stripped and thrown into the Bio Labs of Armount. A place where only one man has ever made it out of. Achilles Volstar.\n"},
+		{"id":"93ddde0429bd7194","x":-417,"y":600,"width":606,"height":100,"type":"text","text":"Currently:\n\nCurrently Thenda is Ireena Kolyana and is trapped within Barovia"}
+	],
+	"edges":[]
+}

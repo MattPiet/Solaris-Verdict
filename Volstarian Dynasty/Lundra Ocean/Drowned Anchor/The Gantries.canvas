@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"2a2902fed3219604","x":-420,"y":-280,"width":250,"height":60,"type":"text","text":"[[Drowned Anchor.canvas]]\n#Volstarian_Dynasty "},
+		{"id":"b6fe6918278b53a6","x":-620,"y":-80,"width":755,"height":333,"type":"text","text":"Arlos Vane, Wayfarers Way:\n\nRud\n\nSells navigation supplies.\n\nSmall store cliff side with just a counter top and a bunch of stuff behind it no real store more like shelves made of wood and the floor is 5 feet of standing surface a fall to a watery rocky terrain below.  \n  \nAzest bought a enchanted compass that will take her directly to a location of her choosing but only The Tide King can authorize its inscribing"},
+		{"id":"9f53877712ad9a3f","x":160,"y":-80,"width":620,"height":120,"type":"text","text":"The Harsh Holes: Small, heavily guarded caves carved directly into the cliffside behind the stalls. This is where pirate captains hold private meetings away from the noise of the tavern, and where the most expensive smuggled goods are kept.\n"}
+	],
+	"edges":[]
+}

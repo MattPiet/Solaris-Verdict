@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"45131b5484107428","type":"text","text":"[[Lundra Ocean.canvas]]\n#WildFort","x":-320,"y":-160,"width":250,"height":60},
-		{"id":"b1f678f0359c059d","type":"text","text":"The Hounds of Loss patrol the port enforcing the law and burning evil witches that practice magic or sell arcane artifacts.\n\nThis area is a series of docks on a redsand beach.\n\n\nThe Dock Inquisitors: Heavily armored priests oversee the loading and unloading of every ship. They don't just check for magic; they collect the \"Tithe of Loss,\" a heavy tax required to do business in the port.\n\nForced Compliance: Shopkeepers are required to display Sharran iconography at their stalls. Refusing to participate in evening prayers or speaking out against the Nightsinger results in immediate exile into the Whipping Winds—or worse, being tied to the docks at high tide.\n\n\n","x":-340,"y":-60,"width":705,"height":290}
-	],
-	"edges":[]
-}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"954324f18f67d384","type":"text","text":"[[Yormindar.canvas]]\n#Volstarian_Dynasty ","x":-570,"y":-380,"width":250,"height":70},
+		{"id":"1443ad565ce8a13c","type":"text","text":"Hall of Glowing Mushrooms:\n\nThe Hall of Mushrooms is a gigantic opening with millions of growing fungi of all different kinds","x":-570,"y":-240,"width":545,"height":130},
+		{"id":"e47f563be208c31f","type":"text","text":"Places of interest\n","x":-150,"y":-20,"width":250,"height":60},
+		{"id":"0e575a96a84b7761","type":"text","text":"Mushroom Manor:\n\nThe home of fungi people who are usually left alone and are friendly unless provoked or attacked. \n\nAt the beginning of the floor and is a necessary crossing point to head into the Hall of Glowing Mushrooms. \n\nMyconids are the denizens of the Manor and the one in charge is name Murphor. \n\nMurphor is the leader of the Myconids and knows about what is further into the mines he usually gifts new commers edible fungi for their trip ahead. \n\nThe Manor entrance has no door and is a giant archway covered in fungus it is less of a house and more like a great passage way the walls are cover in fungi and Myconids are just walking around aimlessly eating or picking fungus. Toward the end of the passageway is a chair made out of Mushrooms and Murphor resting in it. \n\nMurphor has a daughter named Murphya.\n\n\n","x":-760,"y":220,"width":707,"height":485},
+		{"id":"ae5473c0dc0ed4a5","type":"link","url":"https://5e.tools/book.html#xmm,1,myconids,0","x":-785,"y":860,"width":760,"height":580},
+		{"id":"14b8e635f4734a6e","x":100,"y":220,"width":969,"height":343,"type":"text","text":"Glowing Lake:\n\nA lake with a broken bridge to cross. On the other side of the lake is the way down into the residuum mines. \n\nA giant cavern with a glowing lake covering the entire floor. Inside the lake there are all different types of life forms.\n\nCreatures: \n\n\t• Flumph: \n\t• Hunter sharks: \n\t• And an assortment of different weird glowing life forms\n\nOn the far east side of the lake is a cave entrance with 8 displacer beasts\n\n"},
+		{"id":"2a389927a990ea3d","x":100,"y":620,"width":969,"height":660,"type":"link","url":"https://5e.tools/book.html#xmm,1,flumph,0"},
+		{"id":"09ff72938998651b","x":100,"y":1340,"width":1140,"height":940,"type":"link","url":"https://roll20.net/compendium/dnd5e/Hunter%20Shark#content"}
+	],
+	"edges":[
+		{"id":"5cc3ab1b5b9cc22a","fromNode":"e47f563be208c31f","fromSide":"bottom","toNode":"0e575a96a84b7761","toSide":"top"},
+		{"id":"7d0c13e93b25987e","fromNode":"0e575a96a84b7761","fromSide":"bottom","toNode":"ae5473c0dc0ed4a5","toSide":"top"},
+		{"id":"96447ad5fe7df75b","fromNode":"e47f563be208c31f","fromSide":"bottom","toNode":"14b8e635f4734a6e","toSide":"top"}
+	]
+}

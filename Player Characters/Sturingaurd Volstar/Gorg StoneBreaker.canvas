@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"68789cc82ac8f92a","x":-541,"y":-335,"width":250,"height":60,"type":"text","text":"[[Sturingaurd.canvas]]\n#NPC "},
+		{"id":"43874ca7bfb0bd38","x":-541,"y":-220,"width":250,"height":60,"type":"text","text":"Gorg is Stus half brother"},
+		{"id":"1d7ae685250efb98","x":-588,"y":-140,"width":345,"height":90,"type":"text","text":"He is the spinning image of Guldar and the heir to be chief often times he is even looked at as more brutal than his father.\n"},
+		{"id":"08f0148031c5a939","x":-588,"y":0,"width":580,"height":100,"type":"text","text":"He is 20 years older than stu and would often bully him when he was in his teens. When Stu would skip training or talk about peace Gorg would beat him until he stopped disobeying and went back to training.\n"},
+		{"id":"d3ac58cfc2322c9d","x":20,"y":-50,"width":520,"height":882,"type":"file","file":"Player Characters/Images/Pasted image 20260915203158.png"}
+	],
+	"edges":[]
+}

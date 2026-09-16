@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"c883a77c5356c618","x":-507,"y":-347,"width":250,"height":60,"type":"text","text":"[[Drowned Anchor.canvas]]\n#Volstarian_Dynasty "},
+		{"id":"17075bea8293fffe","x":-560,"y":-200,"width":585,"height":230,"type":"text","text":"The Splintered Piers (The Entrance)\n\nThis is the front docks of the island, resting all the way at the bottom of a gigantic rock of an island there are many ships and many docks.\n\nWorking at the dock is a human woman named Raylin who is about 24 blonde and has a southern accent and will demand a 200 gold first timers fee for docking\n"},
+		{"id":"1a749f0e7e0d98f0","x":-560,"y":60,"width":690,"height":260,"type":"text","text":"The Drowned Anchor:\n\nResting in a alcove close to the shore this tavern is the central hub for entire party life. \n\nCompletely open with no walls and just a ceiling, wooden flooring that’s always wet a and sometimes knee high in water depending on tide levels. \n\nRun by a older Tiefling man named Boad.\n\nAzest stopped here for a bit before going further into the island.\n"},
+		{"id":"e77a40fc01ee72c4","x":200,"y":60,"width":640,"height":130,"type":"text","text":"The Chum Pit:\n\nA 30 foot wide mud pit meant for nothing but fighting with only one rule no killing.\n"},
+		{"id":"de8fb02d134c80e1","x":161,"y":240,"width":719,"height":493,"type":"text","text":"The Bilge Market:\n\nA series of stalls that are near the docks and lead up to a stair case \nheading further up  the rock\n\nBlack Algie:\nBlack market for weapons run by a man named Hugo \n\nStock:\n\n(Abysaal greataxe) A Magical Great Axe found in a temple on the ocean floor, cost: 2000gp\n\nWand of Polymorph, cost: 5000gp\n\nMoral Compass, cost: 500gp\n\nBelt of Elvenkind, cost 10000gp\n\nPotion of fire resistance, (2) cost: 150gp\n"},
+		{"id":"c91453924c780b59","x":161,"y":860,"width":400,"height":232,"type":"file","file":"Volstarian Dynasty/Lundra Ocean/Menagerie Coast/images/Pasted image 20260915194030.png"},
+		{"id":"1aee6b1e157b71a3","x":620,"y":856,"width":1288,"height":472,"type":"file","file":"Volstarian Dynasty/Lundra Ocean/Menagerie Coast/images/Pasted image 20260915194037.png"},
+		{"id":"b0089fd373237a7d","x":960,"y":240,"width":837,"height":493,"type":"file","file":"Volstarian Dynasty/Lundra Ocean/Menagerie Coast/images/Pasted image 20260915194050.png"}
+	],
+	"edges":[
+		{"id":"53a5a6a50a9cc9a0","fromNode":"de8fb02d134c80e1","fromSide":"bottom","toNode":"c91453924c780b59","toSide":"top"},
+		{"id":"203bb198f9058555","fromNode":"de8fb02d134c80e1","fromSide":"bottom","toNode":"1aee6b1e157b71a3","toSide":"top"},
+		{"id":"4fccfa2e313a0b49","fromNode":"de8fb02d134c80e1","fromSide":"right","toNode":"b0089fd373237a7d","toSide":"left"}
+	]
+}

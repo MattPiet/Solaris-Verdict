@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"22fa51189088a3fb","type":"text","text":"[[Yormindar.canvas]]\n#Volstarian_Dynasty ","x":-560,"y":-340,"width":250,"height":60},
+		{"id":"a0ecb56990fb9a3c","x":-620,"y":-180,"width":685,"height":90,"type":"text","text":"The bottom slab, or the pit is the industrious center of Yormindar. The entire slab is covered with gigantic furnaces and glowfungus harvesting patch's. This is also where the entrance to the residuum mines is and the mine itself is under incredibly strict watch.\n"},
+		{"id":"d27c6ff38a0dcbdf","x":-160,"y":20,"width":250,"height":60,"type":"text","text":"Places of Interest\n"},
+		{"id":"88f8a0a7be761151","x":-655,"y":260,"width":620,"height":420,"type":"text","text":"Greyspine Quarry:\n\nThis is the actual residuum mine.\n\nRun by house Greyspine the quarry is on the far north side of the bottom slab and is constantly guarded by the cities military. \n\nGradim Greyspine is the nobleman of the house and also the supervisor of the mine. He will be the one that Zahirs mother's cargo is for.  Rough and tumble miner who loves booze and is very serious about residuum. All who wish to use or mine residuum goes through him first. \n\nThe quarry its self is a giant pit that descends beyond sight with one LARGE metal lowering platform in the center that descends to the bottom. Along the way down all around the circle are holes in the mountain the branch off into different sub mines. Basically more complicated then real life Paris catacombs.\n\nAt the very bottom is the mine outpost and brewery. \n\n"},
+		{"id":"db330c28bc9ac72e","x":58,"y":258,"width":722,"height":302,"type":"text","text":"Balgus Brewery: \n\nOwned and run by a dwarvish man named Balgus, the brewery is located at the bottom of the Greyspine Quarry. All of the miners in the quarry come here for lunch to get booze and food. It is also a stop spot for all materials to be checked and counted by Balgus himself. \n\nThe structure is carved into the mine walls and inside it is rectangular with a row of tables and a giant bar the whole length of the structure at the end. Behind the bar Balgus is working constantly.\n\nBalgus is a chipper man who loves new faces often giving them a fresh brew of his newest Ale's.\n\n"}
+	],
+	"edges":[
+		{"id":"eb840c3388ada84a","fromNode":"d27c6ff38a0dcbdf","fromSide":"bottom","toNode":"88f8a0a7be761151","toSide":"top"},
+		{"id":"8325175f27be0a6a","fromNode":"d27c6ff38a0dcbdf","fromSide":"bottom","toNode":"db330c28bc9ac72e","toSide":"top"}
+	]
+}

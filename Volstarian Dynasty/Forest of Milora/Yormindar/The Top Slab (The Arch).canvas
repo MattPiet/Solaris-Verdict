@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c3ce07dc9c713fc6","x":-480,"y":-300,"width":665,"height":260,"type":"text","text":"The entrance to the city is located here. To get into the city everyone outsider must have a full body search done and will be arrested if Residuum is found on their person otherwise most people are let in without a hitch. The Entrance is the Eastern most part of the city.\n\n\nThe Top Slab, also called the Arch, is built on a massive ring that sends neighborhoods and tunnels deeper into the mountain around it. Here is where most residential life is rooted, with thousands of stone-built abodes dotting the walls. A fine layer of soot tends to coat much of this slab, due to imperfect ventilation from the industrious center slab.\n"},
+		{"id":"18f3cd36a04f36f4","x":-610,"y":-480,"width":250,"height":60,"type":"text","text":"[[Yormindar.canvas]]\n#Volstarian_Dynasty "},
+		{"id":"6cb0c276fcc9327b","x":-260,"y":100,"width":250,"height":60,"type":"text","text":"Places of interest\n"},
+		{"id":"be71f2c9575a0fd0","x":-700,"y":360,"width":660,"height":320,"type":"text","text":"The Firebrook Inn & Tavern:\n\nA rowdy place filled with drinking dwarves who most likely just got off their mining shift. Firbrook Inn is imbedded into the mountain much like other abodes in this city.\n\nCircular with a DANCE floor in the center where every night dance competitions are held the current raining champion of the dance floor is Arakobela Chaoshelm she is the raining champ because she plays instruments while she dances. Shes a Dwarf with ginger hair and is pretty yoked. \n\nThe Inn owner's name is Adra shes very rough and tumble and straight forward she also has a habit of encouraging new comers to get black out drunk to the point of no return.\n"},
+		{"id":"26317446780416b4","x":20,"y":360,"width":1076,"height":327,"type":"text","text":"The Value of Valor:\n\nMore of a posh spot Run by a dragonborn man named Naxol Naryax. A very posh man who values those who already know much about arcana given that most of his customers know basically nothing of it\n\nInside the place it is made of marble with blue sapphires imbedded into the walls and a flag of Yormindar acting as a curtain to get to the backroom. \n\nCurrent stock:\n\t• Ring of Evasion: https://5e.tools/items.html#ring%20of%20evasion_xdmg > 1000gp\n\t• Wand of Fear https://5e.tools/items.html#wand%20of%20fear_xdmg > 2000gp\n\t• Wand of Fireballs https://5e.tools/items.html#wand%20of%20fireballs_xdmg > 2500gp\n"}
+	],
+	"edges":[
+		{"id":"0760a3fb514572ed","fromNode":"6cb0c276fcc9327b","fromSide":"bottom","toNode":"be71f2c9575a0fd0","toSide":"top"},
+		{"id":"70c7f51731ca008d","fromNode":"6cb0c276fcc9327b","fromSide":"bottom","toNode":"26317446780416b4","toSide":"top"}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"6eb5e1c6b37da87b","x":-516,"y":-390,"width":250,"height":60,"type":"text","text":"[[Sturingaurd.canvas]]\n#NPC #Volstarian_Dynasty "},
+		{"id":"fb467f91d17e9469","x":-518,"y":-260,"width":505,"height":90,"type":"text","text":"A full blooded goliath 7ft tall and wielding a great maul at the time of the biolabs he is fully stocked, when they were attacked they found an armory on their way up to the top.\n"},
+		{"id":"66084666fbea4574","x":-391,"y":-120,"width":585,"height":120,"type":"text","text":"Currently:\n\nBlandin is currently on waiting for the return of Solaris Verdict in Storm Crest with no news on Thendas condition."}
+	],
+	"edges":[]
+}

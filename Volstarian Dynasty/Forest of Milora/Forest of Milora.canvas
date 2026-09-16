@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"437a01afa599e689","x":-253,"y":-303,"width":250,"height":60,"type":"text","text":"[[Vostarian Dynasty.base]]\n#Volstarian_Dynasty "}
+		{"id":"437a01afa599e689","type":"text","text":"[[Vostarian Dynasty.base]]\n#Volstarian_Dynasty ","x":-380,"y":-400,"width":250,"height":63}
 	],
 	"edges":[]
 }
