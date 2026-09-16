@@ -1,8 +1,8 @@
 {
   "savedSettings": [
     {
-      "id": "3853234e-6313-4fdf-a413-f28b85650add",
       "title": "Default 3D view",
+      "id": "3853234e-6313-4fdf-a413-f28b85650add",
       "setting": {
         "filter": {
           "searchQuery": "",
@@ -82,15 +82,15 @@
         "display": {
           "nodeSize": 3,
           "linkThickness": 2,
-          "linkDistance": 100,
-          "nodeRepulsion": 2800,
+          "linkDistance": 114,
+          "nodeRepulsion": 3000,
           "distanceFromFocal": 300,
           "nodeHoverColor": "#ff0000",
           "nodeHoverNeighbourColor": "#00ff00",
           "linkHoverColor": "#0000ff",
           "showExtension": false,
           "showFullPath": false,
-          "showCenterCoordinates": true,
+          "showCenterCoordinates": false,
           "showLinkArrow": true,
           "dontMoveWhenDrag": false,
           "dagOrientation": "null"
@@ -204,15 +204,15 @@
     "display": {
       "nodeSize": 3,
       "linkThickness": 2,
-      "linkDistance": 100,
-      "nodeRepulsion": 2800,
+      "linkDistance": 114,
+      "nodeRepulsion": 3000,
       "distanceFromFocal": 300,
       "nodeHoverColor": "#ff0000",
       "nodeHoverNeighbourColor": "#00ff00",
       "linkHoverColor": "#0000ff",
       "showExtension": false,
       "showFullPath": false,
-      "showCenterCoordinates": true,
+      "showCenterCoordinates": false,
       "showLinkArrow": true,
       "dontMoveWhenDrag": false,
       "dagOrientation": "null"
