@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("Level Ups/Level Ups.base")

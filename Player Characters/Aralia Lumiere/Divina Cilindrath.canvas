@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"7d077743b75cb27d","x":-340,"y":-400,"width":250,"height":60,"type":"text","text":"[[Aralia Lumiere.canvas]]\n#NPC #WildFort "}
+		{"id":"7d077743b75cb27d","type":"text","text":"[[Aralia Lumiere.canvas]]\n#NPC #WildFort ","x":-540,"y":-620,"width":250,"height":60},
+		{"id":"467ff5c0ab6c62b3","x":-600,"y":-500,"width":620,"height":280,"type":"text","text":"The Diary of Divina Cilindrath\n\nLegened Lore gets you this:\n\nThis Book is sealed behind a lock and hemocraft magic. This book was originally created in the old land called Koraki Kastro and first belonged to Maelle Lumiere before being passed down to Divina Cilindrath. It contains the history of the Lumiere and how they got their power as well as where it came from. It also reveals weaknesses of the False God and Verazanoth, it speaks of a lost God destroyed in the Calamity. The key is located in the runes of Koraki Kastro in the royal palace in Maelle Lumieres old room from thousands of years ago."}
 	],
 	"edges":[]
 }

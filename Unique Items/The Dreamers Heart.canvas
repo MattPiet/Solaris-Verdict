@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"15ed117b5330f803","x":-420,"y":-420,"width":420,"height":128,"type":"text","text":"[[Unique Items.base]]\n[[The Raven Queen, Matron of Ravens.canvas]]\n[[Azest Thyless.canvas]]\n#Item #Lore "},
+		{"id":"4333fb61827c4b11","x":-100,"y":-260,"width":545,"height":430,"type":"text","text":"The Dreamers heart is a one of a kind relic that dates back to pre calamity. This relic is a fragment of Iuon's body and is a direct link to her endless power.\n\nTethered to a endless void in space this relic has the ability to shape and break reality itself. Spending time with the artifact one can peer into the abyss inside gaining a font of reality. Those who spend countless hours with this beacon can eventually learn to access a part of Iuon's power even when the Beacon is not within their grasp. \n\nPeople who are able to use Dunamancy:\n\nAralia Lumiere.\nAzest Theylss. \nAlivia Divina. \nVenthra Unhileg.\nGlant Cilindrath\n"},
+		{"id":"8c27a15457aad4be","x":-520,"y":-240,"width":380,"height":300,"type":"text","text":"\nWhat you can get with Identify.\n\nThis Heart shaped relic made of pure arcane energy has the ability to bend reality itself. Once per day you can spend 1 minute focusing on the Dreamers Heart and gain one font of reality. This font of reality can be used to turn back time 6 seconds but when you expend the font you gain one level of exhaustion.\n"},
+		{"id":"84e4744558a6c61a","x":-520,"y":80,"width":400,"height":600,"type":"file","file":"Unique Items/images/Pasted image 20260916141729.png"}
+	],
+	"edges":[]
+}

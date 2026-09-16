@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"0e6521c6e4877af1","type":"text","text":"[[Lundra Ocean.canvas]]\n\n[[Ergvarn's Imports.canvas]]\n[[Hillaro's Apothecary.canvas]]\n[[Migrahd's Merina.canvas]]\n[[Statue of Milora.canvas]]\n[[The Crooked Plank.canvas]]\n[[Weaves Web.canvas]]\n\n#Volstarian_Dynasty ","x":-1680,"y":-780,"width":580,"height":280},
 		{"id":"d9fa562f64ec8ad5","x":-740,"y":-861,"width":250,"height":60,"type":"text","text":"people"},
-		{"id":"d4459495244aa386","x":-740,"y":-760,"width":250,"height":60,"type":"text","text":"[[People of Interest.canvas]]"},
+		{"id":"d4459495244aa386","x":-740,"y":-760,"width":250,"height":60,"type":"text","text":"[[Volstarian Dynasty/Lundra Ocean/Menagerie Coast/People of Interest/People of Interest.canvas]]"},
 		{"id":"8d0e0889c9f3ee22","x":-1515,"y":-891,"width":250,"height":60,"type":"text","text":"locations"}
 	],
 	"edges":[
