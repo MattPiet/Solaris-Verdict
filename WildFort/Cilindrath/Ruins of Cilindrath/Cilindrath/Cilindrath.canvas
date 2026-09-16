@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"7dabda0da1368279","x":-420,"y":-280,"width":250,"height":60,"type":"text","text":"[[Ruins of Cilindrath.canvas]]\n#WildFort"}
+		{"id":"7dabda0da1368279","type":"text","text":"[[Ruins of Cilindrath.canvas]]\n[[Divina Cilindrath.canvas]]\n#WildFort","x":-420,"y":-280,"width":320,"height":100}
 	],
 	"edges":[]
 }
