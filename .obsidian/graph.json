@@ -111,6 +111,13 @@
         "a": 1,
         "rgb": 6153574
       }
+    },
+    {
+      "query": "tag:#FeyWild  ",
+      "color": {
+        "a": 1,
+        "rgb": 15615104
+      }
     }
   ],
   "collapse-display": true,
@@ -123,6 +130,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3213363860503493,
+  "scale": 0.11660891579456972,
   "close": true
 }
