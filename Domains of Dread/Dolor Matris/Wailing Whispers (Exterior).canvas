@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"bde079c912a699c5","type":"text","text":"Just beyond the void within the Domain know as Dolor Matris trapped in time is a broken Citadel that was once at the peak of  nation.\nCastellum Corvi a castle made of Emerald and Ruby now clinging to the shadows of The Void broken and a fraction of its former glory.","x":-800,"y":-560,"width":560,"height":120},
+		{"id":"f2d5f2c146b2f4b8","type":"text","text":"Raven Castle","x":-796,"y":-636,"width":250,"height":60},
+		{"id":"5cedac0c1ebbe155","type":"text","text":"[[Dolor Matris]]\n#DolorMatris ","x":-920,"y":-800,"width":275,"height":79},
+		{"id":"e259fa5f3ae0c002","type":"text","text":"Wailing Whispers","x":-796,"y":-420,"width":250,"height":60},
+		{"id":"d4a3bc1e6ca96f86","type":"text","text":"The ground is broken with pieces of rock floating in the air and gravity distorted allowing anyone to jump distances they could never dream of. A ever hungry abyss lies below shadows clinging to the castle caging it down.","x":-932,"y":-280,"width":522,"height":144},
+		{"id":"7b9337440c6875ce","type":"text","text":"The skies are open into a sea of stars with pink threads weaving between stars attaching them and in the center of the sky a woman floating wearing a white mask and cloaked in shadow. The Matron of Ravens herself in full form holding the threads of fate together","x":-394,"y":-275,"width":374,"height":175},
+		{"id":"a773202d4d94ffd2","type":"text","text":"Littered throughout the exterior are unthinkable horrors that are the thing of nightmares.","x":-852,"y":-40,"width":362,"height":118},
+		{"id":"b435fbef633a4498","type":"file","file":"Domains of Dread/images/Pasted image 20260918215455.png","x":-420,"y":-67,"width":740,"height":539},
+		{"id":"54977f41964ab4a1","type":"file","file":"Domains of Dread/images/Pasted image 20260918215656.png","x":320,"y":-520,"width":360,"height":1262},
+		{"id":"4bbef13b1bd1b509","type":"file","file":"Domains of Dread/images/Pasted image 20260919104824.png","x":-1660,"y":-67,"width":728,"height":522}
+	],
+	"edges":[
+		{"id":"e0838ff4fc8f7f2f","fromNode":"bde079c912a699c5","fromSide":"left","toNode":"f2d5f2c146b2f4b8","toSide":"left"},
+		{"id":"62beb7373cbcf384","fromNode":"e259fa5f3ae0c002","fromSide":"bottom","toNode":"d4a3bc1e6ca96f86","toSide":"top"},
+		{"id":"a92342a51b78828b","fromNode":"e259fa5f3ae0c002","fromSide":"bottom","toNode":"7b9337440c6875ce","toSide":"top"},
+		{"id":"8859411af2075a45","fromNode":"e259fa5f3ae0c002","fromSide":"bottom","toNode":"a773202d4d94ffd2","toSide":"top"}
+	]
+}
