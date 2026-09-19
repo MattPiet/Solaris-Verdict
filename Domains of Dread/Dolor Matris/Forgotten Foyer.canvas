@@ -2,17 +2,18 @@
 	"nodes":[
 		{"id":"ce7809e3316f78c0","type":"text","text":"[[Dolor Matris]]\n#DolorMatris","x":-480,"y":-380,"width":250,"height":60},
 		{"id":"0d6b011bf9298e08","type":"text","text":"A large castle entrance with cracked flooring that was once marble but is now covered in dirt a debris","x":-480,"y":-280,"width":427,"height":112},
-		{"id":"f712625c86604814","type":"text","text":"To the Left:\n\nA large open walk way leading to a series of rooms","x":-684,"y":51,"width":329,"height":189},
-		{"id":"f24e88b4d57addff","type":"file","file":"Domains of Dread/images/Pasted image 20260919104809.png","x":640,"y":-224,"width":460,"height":674},
-		{"id":"2020320e639ca626","type":"text","text":"3rd Left: \n\nA small study with a written letter on the desk.","x":-1045,"y":385,"width":388,"height":291},
-		{"id":"7bf441912d96a599","type":"text","text":"First Left:\n\nA whole leading to the abyss below","x":-1050,"y":1220,"width":398,"height":290},
-		{"id":"fe925f04c12eabb6","type":"text","text":"2nd Left: \n\nA wooden chamber with wine bottles stack high in shelves and a singular chair beside a glass table. with the view of what at one point woud've been a nation.","x":-1055,"y":755,"width":409,"height":360},
-		{"id":"8d711a10642c9c86","type":"text","text":"","x":-400,"y":1190,"width":432,"height":320},
-		{"id":"1363ae3d98e6d3ac","type":"text","text":"To the Right: dinning hall\n\nA open arch leading to a grand dinning hall that spans 200 feet in length with a glass roof that has a view of the skies above beyond its shattered distortions. \n\nOn the arch way are markings cut into the archway with the name Maelle and a date\n\nwalls with tapestries and in the center of them the symbol on the right.\n\nAt the back left there is a door","x":80,"y":11,"width":448,"height":435},
-		{"id":"3576bae4f95561da","type":"text","text":"The Kitchen:\n\nA small kitchen with old disregarded utensils and dead bodies that have become skeletons.\n\nAt the left corner there is a metal door which leads to a cellar. All the food within has rotted.","x":80,"y":516,"width":448,"height":300},
-		{"id":"b05917f4893efbea","type":"text","text":"","x":-400,"y":785,"width":432,"height":330},
-		{"id":"c0547833c183ba93","type":"text","text":"","x":-388,"y":385,"width":409,"height":291},
-		{"id":"29b713d54303b3d1","x":-1880,"y":54,"width":726,"height":954,"type":"file","file":"Pasted image 20260919112110.png"}
+		{"id":"2020320e639ca626","type":"text","text":"3rd Left: \n\nA small study with a written letter on the desk.","x":-1546,"y":472,"width":388,"height":291},
+		{"id":"fe925f04c12eabb6","type":"text","text":"2nd Left: \n\nA wooden chamber with wine bottles stack high in shelves and a singular chair beside a glass table. with the view of what at one point woud've been a nation.","x":-1556,"y":842,"width":409,"height":360},
+		{"id":"8d711a10642c9c86","type":"text","text":"First Right:\n\nA storage room containing calligraphers supplies. \n\n8000 gold worth of high quality paper and ink","x":-901,"y":1277,"width":432,"height":320},
+		{"id":"7bf441912d96a599","type":"text","text":"First Left:\n\nA whole leading to the abyss below","x":-1551,"y":1307,"width":398,"height":290},
+		{"id":"b05917f4893efbea","type":"text","text":"2nd Right:\n\nButlers Quarters, within are uniforms of ancient attire all wearing a crest of the same symbol on the walls. ","x":-901,"y":872,"width":432,"height":330},
+		{"id":"c0547833c183ba93","type":"text","text":"back exit leading out of the castle to a courtyard that is destroyed and floating in land chunks.","x":-889,"y":472,"width":409,"height":291},
+		{"id":"29b713d54303b3d1","type":"file","file":"Domains of Dread/images/Pasted image 20260919112110.png","x":-2381,"y":141,"width":726,"height":954},
+		{"id":"f712625c86604814","type":"text","text":"To the Left:\n\nA large open walk way leading to a series of rooms","x":-1185,"y":138,"width":329,"height":189},
+		{"id":"1363ae3d98e6d3ac","type":"text","text":"To the Right: dinning hall\n\nA open arch leading to a grand dinning hall that spans 200 feet in length with a glass roof that has a view of the skies above beyond its shattered distortions. \n\nOn the arch way are markings cut into the archway with the name Maelle and a date\n\nwalls with tapestries and in the center of them the symbol on the right.\n\nAt the back left there is a door","x":80,"y":217,"width":448,"height":435},
+		{"id":"3576bae4f95561da","type":"text","text":"The Kitchen:\n\nA small kitchen with old disregarded utensils and dead bodies that have become skeletons.\n\nAt the left corner there is a metal door which leads to a cellar. All the food within has rotted.","x":80,"y":722,"width":448,"height":300},
+		{"id":"f24e88b4d57addff","type":"file","file":"Domains of Dread/images/Pasted image 20260919104809.png","x":640,"y":-18,"width":460,"height":674},
+		{"id":"2d5bfe2e5ce34e2f","type":"text","text":"Forward: \n\nA large staircase leading up on the left and down on the right.","x":-484,"y":110,"width":431,"height":325}
 	],
 	"edges":[
 		{"id":"f33b175897c9197c","fromNode":"0d6b011bf9298e08","fromSide":"bottom","toNode":"f712625c86604814","toSide":"top"},
@@ -25,6 +26,7 @@
 		{"id":"0ada7c3a8dacdc7e","fromNode":"f712625c86604814","fromSide":"bottom","toNode":"c0547833c183ba93","toSide":"top"},
 		{"id":"8a84944375a8595c","fromNode":"c0547833c183ba93","fromSide":"bottom","toNode":"b05917f4893efbea","toSide":"top"},
 		{"id":"02f9bbac00ba154b","fromNode":"b05917f4893efbea","fromSide":"bottom","toNode":"8d711a10642c9c86","toSide":"top"},
-		{"id":"028a107fb091b574","fromNode":"2020320e639ca626","fromSide":"left","toNode":"29b713d54303b3d1","toSide":"right"}
+		{"id":"028a107fb091b574","fromNode":"2020320e639ca626","fromSide":"left","toNode":"29b713d54303b3d1","toSide":"right"},
+		{"id":"b51b9af6b3cd9309","fromNode":"0d6b011bf9298e08","fromSide":"bottom","toNode":"2d5bfe2e5ce34e2f","toSide":"top"}
 	]
 }
