@@ -8,7 +8,7 @@
 		{"id":"2f82dfb91de2f91b","type":"link","url":"https://roll20.net/compendium/dnd5e/Deck%20of%20Many%20Things#content","x":-2500,"y":917,"width":940,"height":903},
 		{"id":"9fdceec2df9fed6d","type":"file","file":"Domains of Dread/images/Pasted image 20260926112831.png","x":-1320,"y":885,"width":420,"height":873},
 		{"id":"410b02a4eb2e0282","type":"text","text":"Right Maelles room.\n\nA room where it looks like decay could not reach, with a balcony that is directly inline with the face of the Matron herself.\n\nMarble floors with a queen sized bed that is pink a wardrobe with old clothes a mirror. \n\nAt the side of the bed a desk with nothing on it. \n\nA painting of a red headed girl laughing at a black haired boy who fell.\n\n","x":-77,"y":-133,"width":537,"height":373},
-		{"id":"2b0a179fc3cce25f","x":-270,"y":574,"width":410,"height":126,"type":"text","text":"Within the desk is the key to Divinas book"}
+		{"id":"2b0a179fc3cce25f","type":"text","text":"Within the desk is the key to Divinas book","x":-270,"y":574,"width":410,"height":126}
 	],
 	"edges":[
 		{"id":"9d5d4c5a88bfcf0b","fromNode":"a617fb7954c22731","fromSide":"bottom","toNode":"42c31c94fc74377e","toSide":"top"},
