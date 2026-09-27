@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"3e540baeccfcb158","type":"text","text":"[[History of the World.base]]\n[[War Between Askain & Volstar.canvas]]\n#Lore ","x":-249,"y":-215,"width":349,"height":95}
+		{"id":"3e540baeccfcb158","type":"text","text":"[[History of the World.base]]\n[[War Between Askain & Volstar.canvas]]\n#Lore ","x":-420,"y":-380,"width":349,"height":95},
+		{"id":"f7ef9e9a4b27d8b9","x":-267,"y":-182,"width":250,"height":60,"type":"text","text":"8000 PD"}
 	],
 	"edges":[]
 }
