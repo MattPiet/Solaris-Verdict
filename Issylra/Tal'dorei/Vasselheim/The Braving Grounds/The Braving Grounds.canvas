@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"25d58dfa6612f687","type":"text","text":"[[Vasselhiem]]\n[[The Storm Lord, Normingander.canvas]]\n[[The Crucible.canvas]]\n[[The Temple of Renewal.canvas]]\n[[The Trial Forge.canvas]]\n#Taldorei ","x":-800,"y":-580,"width":640,"height":200},
+		{"id":"838ae4b4ebd43da4","type":"text","text":"The Braving Grounds District is dedicated to the deity of war the Stormlord. The district is in the western part of the city, which greets weary travelers incoming from Glasswalk Road. It runs northward from the city through the Vesper Timberland and toward the Zenwick Mountains. The Braving Ground's priesthood is called the Warriors of the Dawn Fist.","x":-520,"y":-180,"width":605,"height":150}
+	],
+	"edges":[]
+}

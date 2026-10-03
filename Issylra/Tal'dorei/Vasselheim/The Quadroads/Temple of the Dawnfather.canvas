@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"f8722bc9be414b5a","type":"text","text":"A three-tiered temple, manned by multiple priests. Outside is a bell made of enchanted, translucent metal that glows at night, rung at the zenith of the day.","x":-260,"y":-120,"width":565,"height":90},
+		{"id":"47c8293868107bec","type":"text","text":"[[The Quadroads.canvas]]\n[[The Dawn Father, Pellor.canvas]]\n#Taldorei ","x":-329,"y":-293,"width":329,"height":53}
+	],
+	"edges":[]
+}

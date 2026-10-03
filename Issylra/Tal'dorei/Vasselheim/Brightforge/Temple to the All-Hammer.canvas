@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"81debb795b187054","type":"text","text":"[[Brightforge.canvas]]\n[[The All-Hammer, Moradin.canvas]]\n#Taldorei ","x":-477,"y":-400,"width":360,"height":132},
+		{"id":"ccce49caf1c330a2","type":"text","text":"Bright torches and braziers adorn the front of this underground temple. The walls and nearby tablets are engraved with poetry from early adherents of the faith.","x":-477,"y":-240,"width":485,"height":110}
+	],
+	"edges":[]
+}

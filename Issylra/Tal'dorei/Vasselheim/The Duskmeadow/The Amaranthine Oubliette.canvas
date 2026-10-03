@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"1352e088c978307e","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"The prison of Vasselheim."},
+		{"id":"a1982c781d5def07","x":-315,"y":-176,"width":250,"height":60,"type":"text","text":"[[The Duskmeadow.canvas]]\n#Taldorei "}
+	],
+	"edges":[]
+}

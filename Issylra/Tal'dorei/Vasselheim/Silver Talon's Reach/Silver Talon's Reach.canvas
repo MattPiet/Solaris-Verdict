@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"c68da0fdc380b4cb","type":"text","text":"The Silver Talon's Reach is a district dedicated to the worship of the Platinum Dragon, the god of life and order. It is placed at the very northern part of the town near the Heaven's Stair. The priesthood for this district are the Scalebearers.","x":-125,"y":-30,"width":565,"height":130},
+		{"id":"5a7fbf7c08df5327","type":"text","text":"[[Vasselhiem]]\n[[The Platinum Dragon, Bahamut.canvas]]\n[[Heaven's Stair Mountain.canvas]]\n[[The Platinum Sanctuary.canvas]]\n#Taldorei ","x":-125,"y":-220,"width":505,"height":160}
+	],
+	"edges":[]
+}

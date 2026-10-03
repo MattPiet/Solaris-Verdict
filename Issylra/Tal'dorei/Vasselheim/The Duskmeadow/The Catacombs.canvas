@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"1442276d29f71fbb","x":-237,"y":-222,"width":250,"height":60,"type":"text","text":"[[The Duskmeadow.canvas]]\n#Taldorei "},
+		{"id":"40479ae8ebbe766e","x":-237,"y":-120,"width":425,"height":90,"type":"text","text":"An underground structure in which the dead of Vasselheim are interred. Sealed in 843 PD"}
+	],
+	"edges":[]
+}

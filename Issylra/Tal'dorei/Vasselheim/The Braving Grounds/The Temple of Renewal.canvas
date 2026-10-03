@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"868700279ffb9af8","type":"text","text":"[[The Braving Grounds.canvas]]\n#Taldorei ","x":-900,"y":-780,"width":320,"height":120},
+		{"id":"73511fe0cd2171d7","type":"text","text":"The Temple of Renewal: A recently discovered ancient temple of Sarenrae within the Braving Grounds. It had been buried under the fallen tower of Syrac. Pike led this temple's restoration efforts after arriving at Vasselheim and before returning to Emon. Though Sarenrae's following and priesthood in the city are much smaller than those of other districts, Pike is still afforded the same respect as any other Dawn Marshal.","x":-900,"y":-640,"width":685,"height":170},
+		{"id":"ca3578c4ce7dfa17","x":-900,"y":-440,"width":1900,"height":1220,"type":"link","url":"https://criticalrole.fandom.com/wiki/Temple_of_Renewal"}
+	],
+	"edges":[]
+}

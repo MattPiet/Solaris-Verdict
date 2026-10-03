@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"ceb9bd920a59d3d1","x":-125,"y":-30,"width":465,"height":130,"type":"text","text":"A giant mountain that bisects the northern portion of Vasselheim. It looks over the entirety of the city, and is named for the seemingly endless stairway leading upward from a massive silver gate at its base."},
+		{"id":"020a60a04e220f93","x":-249,"y":-157,"width":250,"height":60,"type":"text","text":"[[Silver Talon's Reach.canvas]]\n#Taldorei "}
+	],
+	"edges":[]
+}

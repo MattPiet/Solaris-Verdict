@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"191879682b26b0f6","type":"text","text":"A large gynosphinx, Osysa, lives in a cavern below the guildhall. She uses her knowledge and scrying abilities to locate the guild's quarry and determine the viability of contracts the Slayer's Take.","x":-260,"y":-220,"width":525,"height":110},
+		{"id":"17f03680d0deade5","type":"text","text":"The guild members are led by [Vanessa Cyndria](https://criticalrole.fandom.com/wiki/Vanessa_Cyndrial),  a no-nonsense tiefling. The second-in-command is her husband, [Mertin Cyndrial](https://criticalrole.fandom.com/wiki/Mertin_Cyndrial), a halfling.","x":-260,"y":-60,"width":585,"height":90},
+		{"id":"80d6e2ed9272170b","type":"text","text":"### **Known members**\n\n- [Vanessa Cyndrial](https://criticalrole.fandom.com/wiki/Vanessa_Cyndrial \"Vanessa Cyndrial\") (guildmaster)\n- [Mertin Cyndrial](https://criticalrole.fandom.com/wiki/Mertin_Cyndrial \"Mertin Cyndrial\") (second-in-command)\n- [Aldor](https://criticalrole.fandom.com/wiki/Aldor \"Aldor\")\n- [Kashaw Vesh](https://criticalrole.fandom.com/wiki/Kashaw_Vesh \"Kashaw Vesh\")\n- [Loran](https://criticalrole.fandom.com/wiki/Loran \"Loran\")\n- [Lyra](https://criticalrole.fandom.com/wiki/Lyra \"Lyra\")\n- [Thorbir Falbek](https://criticalrole.fandom.com/wiki/Thorbir_Falbek \"Thorbir Falbek\")\n- [Zahra Hydris](https://criticalrole.fandom.com/wiki/Zahra_Hydris \"Zahra Hydris\")\n- [Grimm Heldwell](https://criticalrole.fandom.com/wiki/Grimm_Heldwell \"Grimm Heldwell\") (formerly)\n- [Igor](https://criticalrole.fandom.com/wiki/Igor \"Igor\")\n- [Sweeny](https://criticalrole.fandom.com/wiki/Sweeny \"Sweeny\")","x":-300,"y":80,"width":849,"height":356},
+		{"id":"fb6b45a36bca3c91","x":-474,"y":-324,"width":250,"height":60,"type":"text","text":"[[The Quadroads.canvas]]\n#Taldorei "}
+	],
+	"edges":[]
+}

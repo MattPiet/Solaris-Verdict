@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"b740849c75f40ffd","type":"text","text":"[[The Quadroads.canvas]]\n#Taldorei ","x":-300,"y":-180,"width":250,"height":60},
+		{"id":"874bca9ca134fddb","x":-300,"y":-80,"width":454,"height":61,"type":"text","text":"A shop and home of the hag Forscythia"}
+	],
+	"edges":[]
+}

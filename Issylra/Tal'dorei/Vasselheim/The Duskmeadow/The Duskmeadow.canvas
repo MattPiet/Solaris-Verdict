@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"016565a41f95011d","type":"text","text":"The Duskmeadow District is dedicated to the worship of the goddess of fate and death, the Raven Queen. The district celebrates death as a part of life and appears lively in contrast to the other parts of town. The buildings are dark, but the morbid celebration is constant here. Its priesthood is the leaderless order of dark-veiled maidens of the Raven Queen known as the Trust of Winter.","x":-240,"y":-80,"width":625,"height":170},
+		{"id":"b6cd41837c3d374e","type":"text","text":"[[Vasselhiem]]\n[[The Raven Queen, Matron of Ravens.canvas]]\n[[Raven's Crest.canvas]]\n[[The Amaranthine Oubliette.canvas]]\n[[The Catacombs.canvas]]\n#Taldorei ","x":-480,"y":-460,"width":553,"height":220}
+	],
+	"edges":[]
+}

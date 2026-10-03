@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Session_Note  ",
@@ -125,6 +125,13 @@
         "a": 1,
         "rgb": 3083083
       }
+    },
+    {
+      "query": "tag:#Taldorei  ",
+      "color": {
+        "a": 1,
+        "rgb": 15483358
+      }
     }
   ],
   "collapse-display": true,
@@ -137,6 +144,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8854989543149994,
+  "scale": 0.16348370567219664,
   "close": false
 }

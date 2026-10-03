@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"dc2ab6088d1b4706","type":"text","text":"The Birthheart: The main temple to Melora, which is an ascending series of tiered and irrigated gardens.","x":-460,"y":-160,"width":485,"height":110},
+		{"id":"9e6e3b49b07830ea","x":-576,"y":-411,"width":336,"height":131,"type":"text","text":"[[The Abundant Terrace.canvas]]\n[[The Wild Mother, Milora.canvas]]\n#Taldorei "}
+	],
+	"edges":[]
+}

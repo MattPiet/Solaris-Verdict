@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"0824f07ebd626dc7","type":"text","text":"The Abundant Terrace is the district of Vasselheim devoted to the worship of Melora, goddess of the wilderness and the sea. Located in the western part of the city, it consists mostly of wooded areas and farmland and provides most of the food for Vasselheim. Various enchantments in the district keep the weather mild, allowing for year-long harvests from its orchards.","x":-380,"y":-200,"width":585,"height":160},
+		{"id":"228c75992d107447","type":"text","text":"[[Vasselhiem]]\n[[The Wild Mother, Milora.canvas]]\n[[The Birthheart.canvas]]\n[[Midnight Breath Tavern.canvas]]\n#Taldorei ","x":-660,"y":-560,"width":390,"height":160}
+	],
+	"edges":[]
+}

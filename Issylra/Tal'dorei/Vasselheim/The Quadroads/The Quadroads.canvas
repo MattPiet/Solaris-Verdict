@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"06ee0d637a4771fe","type":"text","text":"The Quadroads District venerates the law and civilization associated with the god Pelor, the Dawn Father. The district is named for the four roads, incoming from every other district of Vasselheim. They form two main routes and meet up together in the middle of the city into a large bazaar. Its priesthood is known as the Holy Sunburdened.","x":-305,"y":-280,"width":585,"height":170},
+		{"id":"411671781e854f07","type":"text","text":"[[Vasselhiem]]\n[[Bazaar.canvas]]\n[[Forscythia's Shop.canvas]]\n[[Slayer's Take.canvas]]\n[[Temple of the Dawnfather.canvas]]\n#Taldorei ","x":-340,"y":-560,"width":440,"height":200}
+	],
+	"edges":[]
+}

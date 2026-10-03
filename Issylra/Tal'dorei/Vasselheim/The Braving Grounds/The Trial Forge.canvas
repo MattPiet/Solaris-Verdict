@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"2db55942533c9e93","type":"text","text":"An impressive sight from the exterior, the Trial Forge featured steps leading up to giant, reddish, almost rusted-over doors that blocked the entrance. Bastions guarded the front entrance. Atop the temple, a gargantuan statue of Normingander loomed over the entire district. The statue depicted a musclebound titan of a figure standing heroically with a giant beard, bracers on his arms, and one knee raised.\n\nInside the temple, sage and other herbs were burned to ceremonially cleanse the area of evil spirits and create an atmosphere conducive to meditation. The building itself consisted of two long hallways that intersected into a central chamber with a raised dais, upon which shone multicolored beams of light. The halls were each essentially one long arch, about eighty-five to one hundred feet tall, built from a thick, sturdy, reddish stone. It was unclear if the stone was naturally reddish or if it had been stained to match the color of Kord. The floor was a polished black marble with gold streaks through it. Individuals in gold and red robes walked throughout the temple, though their regalia was simpler than that of the Earthbreaker, and they may have taken vows of silence","x":-340,"y":-280,"width":725,"height":390},
+		{"id":"991ddbb5c24595e5","type":"text","text":"**[Earthbreaker Groon](https://criticalrole.fandom.com/wiki/Earthbreaker_Groon \"Earthbreaker Groon\"):** The Dawn Marshal of the Braving Grounds and the highest-ranking religious leader of Kord's worship in Vasselheim","x":-180,"y":220,"width":400,"height":120},
+		{"id":"8e966ffd2ccf6322","type":"text","text":"[[The Braving Grounds.canvas]]\n#Taldorei ","x":-520,"y":-500,"width":320,"height":120}
+	],
+	"edges":[]
+}

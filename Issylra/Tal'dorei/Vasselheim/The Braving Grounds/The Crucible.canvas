@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"9a224206ac4b1cb7","type":"text","text":"The Crucible is a brawling arena in the Braving Grounds District of Vasselheim. It fits the theme of the Braving Grounds, which are dedicated to Normingander, a god of battle and competition, though the Crucible is a regular fighting pit and there is a separate, sacred arena for very special occasions.\n","x":-125,"y":-30,"width":685,"height":310},
+		{"id":"99236a1f9046a109","type":"text","text":"[[The Braving Grounds.canvas]]\n#Taldorei ","x":-340,"y":-240,"width":320,"height":120}
+	],
+	"edges":[]
+}
