@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"411976ecbb0380e0","x":-499,"y":-230,"width":250,"height":60,"type":"text","text":"[[Linarian Veykar.canvas]]\n#NPC "},
-		{"id":"ef3d628333c5f1c0","x":-280,"y":-100,"width":250,"height":60,"type":"text","text":"Alive in Fort Grey Stone"}
+		{"id":"411976ecbb0380e0","type":"text","text":"[[Linarian Veykar.canvas]]\n#NPC ","x":-499,"y":-230,"width":250,"height":60},
+		{"id":"ef3d628333c5f1c0","type":"text","text":"Alive in Fort Grey Stone","x":-280,"y":-100,"width":250,"height":60},
+		{"id":"0f1c332285e0d7af","x":-171,"y":-265,"width":250,"height":65,"type":"text","text":"age: 39"}
 	],
 	"edges":[]
 }
