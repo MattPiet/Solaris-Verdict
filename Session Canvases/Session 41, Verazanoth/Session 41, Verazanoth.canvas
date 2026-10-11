@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"4fd1be1281f00295","type":"text","text":"[[Session Canvases.base]]\n#Session_Canvas","x":-1760,"y":-1700,"width":250,"height":60},
+		{"id":"c85a8daff2d9b65e","type":"file","file":"Session Canvases/Session 40, Hogs Head/Images/Pasted image 20261003131852.png","x":-1760,"y":-1600,"width":580,"height":539},
+		{"id":"dae54d0f23f461cf","type":"file","file":"Session Canvases/Session 41, Verazanoth/Images/verazanoth (1).png","x":-1160,"y":-1600,"width":400,"height":1289},
+		{"id":"3f21700a473df4d5","type":"file","file":"Session Canvases/Session 41, Verazanoth/Images/zahra.jpg","x":-700,"y":-1620,"width":651,"height":1052},
+		{"id":"23bb800d29584890","x":-49,"y":-1686,"width":826,"height":1250,"type":"file","file":"Session Canvases/Session 41, Verazanoth/Images/kashaw.png"}
+	],
+	"edges":[]
+}
