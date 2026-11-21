@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"54927a261648e028","type":"text","text":"[[Proto Aternis]]\n#ProtoAternis ","x":-400,"y":-360,"width":162,"height":97}
+		{"id":"54927a261648e028","type":"text","text":"[[Proto Aternis]]\n#ProtoAternis ","x":-780,"y":-640,"width":162,"height":97},
+		{"id":"e75674f5ae26dae1","type":"text","text":"A beach made of sand like pearls that each represent a soul of someone who worshipped The Everlight. \n\nFrom the lake it is easy to make out the every burning radiant monolith off in the distances and it is directly next to the lake of Redemption.\n\nOn the beach you are able to pick up a pearl and feel the emotions of the soul who resides within it.","x":-780,"y":-480,"width":438,"height":327}
 	],
 	"edges":[]
 }

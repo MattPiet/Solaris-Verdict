@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"6a8ddf7f0cbe747e","type":"text","text":"[[Proto Aternis]]\n#ProtoAternis ","x":-660,"y":-420,"width":162,"height":97},
+		{"id":"be657f6029690fa0","type":"text","text":"Exterior:","x":-231,"y":-195,"width":111,"height":60},
+		{"id":"15358a05f4c063ac","type":"text","text":"A giant monolith that breaks the skies above rests within a beautiful forest of golden trees and an ever present morning sunshine a top the tower is the magnificent form of Saren Rae herself in all her glory. \n\nFrom her monolith Rae remains a caged bird who wishes to fly but instead aids in providing her light to those she deems in need of it. \n\n\nThe Monolith has a entrance at its base, a carved archway with no door. \n\n\n","x":-515,"y":-40,"width":680,"height":220},
+		{"id":"35a768d81cf355b2","type":"text","text":"Floor one:","x":-634,"y":340,"width":119,"height":60},
+		{"id":"f94b79fab51bf30c","type":"text","text":"Located at the base of the monolith this giant circular room has a stair case that wraps completely around the monolith ascending all the way to its peak. \n\non the ground is a mural of the Everlight on one knee with her hand pressed to the world of Villatos creating a radiant barrier around it.\n\nat the base of the staircase is a fairy like creature named Xiabel who acts as a guide.\n\n","x":-814,"y":480,"width":480,"height":280},
+		{"id":"ae007a37291d5db9","type":"text","text":"The Ascent:","x":-175,"y":680,"width":140,"height":50},
+		{"id":"9cfa4cfd2167a1cd","type":"text","text":"As you walk up the staircase different murals of time before and during the calamity are depicted. Specifically the Everlights involvment and as you get higher the story begins to grow colder and sader. ","x":-362,"y":800,"width":514,"height":140},
+		{"id":"2a15ce977d43030d","type":"text","text":"Top of the Monolith:","x":-740,"y":1000,"width":250,"height":50},
+		{"id":"2ec3b3e3d1ca9cf2","type":"text","text":"The stairs give way to an empty room with a double door on one side and a mirror on the other.\n\ncarved into the marble flooring is the face of the Everlight but half of it is shaded out.\n\nThrough the mirror you can see the exact room you are in but cloaked in shadow.","x":-740,"y":1147,"width":500,"height":293},
+		{"id":"d14a9bffd572ff27","x":-98,"y":1264,"width":250,"height":60,"type":"text","text":"Outside at the top:"},
+		{"id":"5ceb243f64ae4b5a","x":-171,"y":1520,"width":591,"height":240,"type":"text","text":"On the exterior of the Monolith at its peak rests a goddess who sits on a throne in a mortal form with her gold like avatar looming above her.\n\nStatues of her and her past champions line the edge of the monolith and in its center floating above a swirling black hole surrounded by a dark barrier a set of bright radiant armor."}
+	],
+	"edges":[
+		{"id":"e6f9f4045094c667","fromNode":"be657f6029690fa0","fromSide":"bottom","toNode":"15358a05f4c063ac","toSide":"top"},
+		{"id":"25ef52064ddb28c7","fromNode":"15358a05f4c063ac","fromSide":"bottom","toNode":"35a768d81cf355b2","toSide":"top"},
+		{"id":"f4d10d5a6ec83715","fromNode":"35a768d81cf355b2","fromSide":"bottom","toNode":"f94b79fab51bf30c","toSide":"top"},
+		{"id":"b323ffb0677c16a9","fromNode":"f94b79fab51bf30c","fromSide":"right","toNode":"ae007a37291d5db9","toSide":"top"},
+		{"id":"0689436b7b1888d7","fromNode":"ae007a37291d5db9","fromSide":"bottom","toNode":"9cfa4cfd2167a1cd","toSide":"top"},
+		{"id":"58e2dec405bbe6e8","fromNode":"9cfa4cfd2167a1cd","fromSide":"left","toNode":"2a15ce977d43030d","toSide":"top"},
+		{"id":"5aafb3c40a8d34bb","fromNode":"2a15ce977d43030d","fromSide":"bottom","toNode":"2ec3b3e3d1ca9cf2","toSide":"top"},
+		{"id":"029549ccfe5077b2","fromNode":"2ec3b3e3d1ca9cf2","fromSide":"right","toNode":"d14a9bffd572ff27","toSide":"left"},
+		{"id":"3f3e415d368abca0","fromNode":"d14a9bffd572ff27","fromSide":"bottom","toNode":"5ceb243f64ae4b5a","toSide":"top"}
+	]
+}

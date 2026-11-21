@@ -1,6 +1,8 @@
 {
 	"nodes":[
-		{"id":"67467d0eb5c01990","type":"text","text":"[[Proto Aternis]]\n#ProtoAternis ","x":-81,"y":-48,"width":162,"height":97}
+		{"id":"0d0afba958c63c7d","x":-516,"y":49,"width":250,"height":60,"type":"text","text":""},
+		{"id":"67467d0eb5c01990","type":"text","text":"[[Proto Aternis]]\n#ProtoAternis ","x":-440,"y":-280,"width":162,"height":97},
+		{"id":"0b098b571e1c7b00","type":"text","text":"battle map","x":-235,"y":-14,"width":250,"height":60}
 	],
 	"edges":[]
 }

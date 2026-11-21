@@ -1,6 +1,12 @@
 {
 	"nodes":[
-		{"id":"ae8b0612518114d2","type":"text","text":"[[Proto Aternis]]\n#ProtoAternis ","x":-81,"y":-48,"width":162,"height":97}
+		{"id":"ae8b0612518114d2","type":"text","text":"[[Proto Aternis]]\n#ProtoAternis ","x":-500,"y":-460,"width":162,"height":97},
+		{"id":"11cc795679a10277","type":"text","text":"A world cloaked in shadow lit by yellow ink the swims through the ground. Above in the sky a darkness with bright yellow roots the span out for kilometers. \n\nthe surrounding area is littered with fracture remnants of time. Pieces of fallen armount crooked and distorted versions of the radiant monolith. The castle within Volster rests on the back of a dead titan miles away and half finished island with geometric structures are scattered in the skies above.\n\nand still ever present but now gothic and fractured with golden ink leaking from it, The Dark Monolith with no visage of the Everlight looming over instead you can see off in the sky a complete eclipse permanently blocking out the light.","x":-338,"y":-280,"width":681,"height":419},
+		{"id":"a47b369a4b7fd503","type":"text","text":"The Dark Abyss:","x":-122,"y":200,"width":250,"height":60},
+		{"id":"09c5e916700307cf","type":"text","text":"In the other world here lies the lake of redemption. In this location here lies the end of time. \n\nwhere once lied the lake of redemption now a mountain with a dead gigantic creature atop it, only its bones remain with one radiant sword of light larger than the monolith imbedded into the chest and further into the mountain.\n\nThrough a small opening at the front leads you into a series of tunnels haunted by shadowed souls and ancient etchings of a mortal battling a creature of immeasurable power. \n\nat the end of the tunnels it opens to a large tunnel of void with rock and ink swirling all around a stone walk way that is fractured and floating above this space. It then ends abruptly with a fall into the void below. ","x":-421,"y":320,"width":848,"height":500}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"f1042833593b07f5","fromNode":"11cc795679a10277","fromSide":"bottom","toNode":"a47b369a4b7fd503","toSide":"top"},
+		{"id":"639b3424c2ea096b","fromNode":"a47b369a4b7fd503","fromSide":"bottom","toNode":"09c5e916700307cf","toSide":"top"}
+	]
 }
