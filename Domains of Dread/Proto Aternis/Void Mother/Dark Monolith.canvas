@@ -1,10 +1,22 @@
 {
 	"nodes":[
 		{"id":"e9d31c1dcc04c859","type":"text","text":"[[Proto Aternis]]\n#ProtoAternis ","x":-740,"y":-500,"width":162,"height":97},
-		{"id":"28724f1cde3aae71","x":-309,"y":-329,"width":250,"height":60,"type":"text","text":"The Mirror room:"},
-		{"id":"3df52316daa40a82","x":-408,"y":-80,"width":449,"height":221,"type":"text","text":"leads to the base of the monolith which rises with no staircase to climb. Once you enter the mirror it ascends to the top of the monolith awaiting a trail to be complete. \n\nThis room has carved into its floor the other half of the Everlight but and inky disregarded visage of her"}
+		{"id":"0adcacf1c0a99ad7","type":"text","text":"Floor one:","x":-997,"y":-251,"width":119,"height":60},
+		{"id":"356e1f3d20032f80","type":"text","text":"The Ascent:","x":-538,"y":89,"width":140,"height":50},
+		{"id":"7590d54917cbfeb8","type":"text","text":"Rising through the monolith a story of creation is told, failed creation. A being attempting to create a universe and after success then Gods in the lands of Proto Aternis, showing never ending failure until eventually he creates his greatest failure the exact opposite of what he wanted a woman forggotten and vengful he named her Clea and she killed all his other failed creations of Gods or made them work beneath her. Eventually he created true Proto Aternis and in it the Gods of today each with their failed creations sealed in the land of creation kept in check by Clea the failed creation of the Everlight ","x":-725,"y":209,"width":565,"height":271},
+		{"id":"334764338ad865ae","type":"text","text":"Top of the Monolith:","x":-1103,"y":409,"width":250,"height":50},
+		{"id":"947e7bd3abeb57a6","type":"text","text":"The stairs give way to an empty room with a double door on one side and a mirror on the other.\n\nThe Mirror leading back to Proto Aternis.\n\nThe double doors open to the sight of 16 mirrors all leading to a different location within the Land of Creation","x":-1103,"y":556,"width":500,"height":293},
+		{"id":"f1d666b702e60af1","type":"text","text":"Outside at the top:","x":-461,"y":673,"width":250,"height":60},
+		{"id":"472315c7b7e27325","type":"text","text":"On the exterior of the Monolith at its peak rests a goddess who sits on a throne in a mortal form with her gold like avatar looming above her.\n\nStatues of her and her past champions line the edge of the monolith and in its center floating above a swirling black hole surrounded by a dark barrier a set of bright radiant armor.","x":-534,"y":929,"width":591,"height":240},
+		{"id":"3df52316daa40a82","type":"text","text":"leads to the base of the monolith which rises with no staircase to climb. Once you enter the mirror it ascends to the top of the monolith awaiting a trail to be complete. \n\nThis room has carved into its floor the other half of the Everlight but and inky disregarded visage of her","x":-1162,"y":-107,"width":449,"height":221}
 	],
 	"edges":[
-		{"id":"c7a88045c096b5b7","fromNode":"28724f1cde3aae71","fromSide":"bottom","toNode":"3df52316daa40a82","toSide":"top"}
+		{"id":"364fa0cb133f7cba","fromNode":"356e1f3d20032f80","fromSide":"bottom","toNode":"7590d54917cbfeb8","toSide":"top"},
+		{"id":"23940fcdad2e0085","fromNode":"7590d54917cbfeb8","fromSide":"left","toNode":"334764338ad865ae","toSide":"top"},
+		{"id":"65d9f100151f25cd","fromNode":"334764338ad865ae","fromSide":"bottom","toNode":"947e7bd3abeb57a6","toSide":"top"},
+		{"id":"d8332c53b302b8db","fromNode":"947e7bd3abeb57a6","fromSide":"right","toNode":"f1d666b702e60af1","toSide":"left"},
+		{"id":"d33169a67a90298a","fromNode":"f1d666b702e60af1","fromSide":"bottom","toNode":"472315c7b7e27325","toSide":"top"},
+		{"id":"7d8a1c407e4234d9","fromNode":"0adcacf1c0a99ad7","fromSide":"bottom","toNode":"3df52316daa40a82","toSide":"top"},
+		{"id":"314c15a2a027fe5b","fromNode":"3df52316daa40a82","fromSide":"right","toNode":"356e1f3d20032f80","toSide":"top"}
 	]
 }
