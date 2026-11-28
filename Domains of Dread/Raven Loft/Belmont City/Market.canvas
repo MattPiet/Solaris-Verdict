@@ -5,7 +5,7 @@
 		{"id":"119c501326808d0e","type":"text","text":"Unhileg Arcanum\n\nVenthra's shop\n\nHorn of Silent Alarm - 250gp\n\nPotion of Growth - 400gp\n\nRing of Invisibility - 15000gp\n","x":640,"y":-200,"width":440,"height":270},
 		{"id":"4d6747b51c981930","type":"file","file":"Domains of Dread/images/Pasted image 20260916003405.png","x":1120,"y":-200,"width":680,"height":305},
 		{"id":"dd2e9440b6baa808","type":"file","file":"Domains of Dread/images/Pasted image 20260916003414.png","x":1120,"y":160,"width":800,"height":532},
-		{"id":"76ec179b25cb6b12","x":640,"y":-683,"width":760,"height":443,"type":"file","file":"Domains of Dread/images/Pasted image 20260916003424.png"}
+		{"id":"76ec179b25cb6b12","type":"file","file":"Domains of Dread/images/Pasted image 20260916003424.png","x":640,"y":-683,"width":760,"height":443}
 	],
 	"edges":[]
 }
